@@ -1,0 +1,395 @@
+{
+  "origin": "CDG",
+  "destination": "FRA",
+  "departure_date": "2026-11-14",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 95.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Condor",
+        "duration_minutes": 80,
+        "segments": [
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4301",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T07:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T06:30:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T08:50:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T07:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "afdfb59e3d1e4b71a2649bf787fb98c9"
+    },
+    {
+      "price": {
+        "amount": 95.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Condor",
+        "duration_minutes": 80,
+        "segments": [
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4303",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:35:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T12:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T11:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "26651cfe108a4bb1ba514f442c69a2a8"
+    },
+    {
+      "price": {
+        "amount": 95.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Condor",
+        "duration_minutes": 80,
+        "segments": [
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4305",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T16:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T15:50:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T18:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T17:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "12f038c029174752acb1a924967bedd5"
+    },
+    {
+      "price": {
+        "amount": 102.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 80,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1218",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T13:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T12:00:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T14:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T13:20:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "16cd19dbe13b446a8b11bcf989d6a039"
+    },
+    {
+      "price": {
+        "amount": 102.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 80,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1018",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T20:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T19:45:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T22:05:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T21:05:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "36f904d52f7948769d35caeededbf88e"
+    },
+    {
+      "price": {
+        "amount": 141.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 725,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-11-14T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1199",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-11-15T07:00:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:00:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-15T08:00:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-15T07:00:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "3d31e3ce96564da6b8fba8119dedbd53"
+    },
+    {
+      "price": {
+        "amount": 148.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 75,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b17bbb7e78ad40e9a996372e89f5b036"
+    },
+    {
+      "price": {
+        "amount": 148.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 75,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1043",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T09:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T11:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T10:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "103750b386d740e59a97d031446ac807"
+    },
+    {
+      "price": {
+        "amount": 148.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 75,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1045",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T12:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T11:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "678679eb378746ceb8e5a1df22103a56"
+    },
+    {
+      "price": {
+        "amount": 148.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 75,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1047",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:25:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T15:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T14:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ad2e283a3c0c4acd8f381800078b5e90"
+    },
+    {
+      "price": {
+        "amount": 148.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 75,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1049",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T19:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T18:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T20:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T19:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ff6b3dc6238044cb94e4a35179cb858a"
+    },
+    {
+      "price": {
+        "amount": 158.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 85,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1618",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T09:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T08:50:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T11:15:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T10:15:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "94e6c1ef8f2c47ffa35ca5a125c1eebd"
+    }
+  ],
+  "observed_at": "2026-10-24T21:33:34.303041Z"
+}

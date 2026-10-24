@@ -1,0 +1,516 @@
+{
+  "origin": "CDG",
+  "destination": "DXB",
+  "departure_date": "2026-12-08",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 173.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "AJet",
+        "duration_minutes": 630,
+        "segments": [
+          {
+            "marketing_carrier_code": "VF",
+            "flight_number": "10",
+            "operating_carrier_name": "AJet",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T12:45:00Z",
+            "arrival_airport": "SAW",
+            "arrival_time_local": "2026-12-08T19:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2026-12-08T16:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "VF",
+            "flight_number": "143",
+            "operating_carrier_name": "AJet",
+            "departure_airport": "SAW",
+            "departure_time_local": "2026-12-08T20:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2026-12-08T17:55:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T03:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T23:15:00Z",
+            "duration_minutes": 320,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d741a6d037704349aebb9e96e253cde8"
+    },
+    {
+      "price": {
+        "amount": 352.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Oman Air",
+        "duration_minutes": 590,
+        "segments": [
+          {
+            "marketing_carrier_code": "WY",
+            "flight_number": "132",
+            "operating_carrier_name": "Oman Air",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T21:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T20:10:00Z",
+            "arrival_airport": "MCT",
+            "arrival_time_local": "2026-12-09T07:10:00",
+            "arrival_timezone": "Asia/Muscat",
+            "arrival_time_utc": "2026-12-09T03:10:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "WY",
+            "flight_number": "603",
+            "operating_carrier_name": "Oman Air",
+            "departure_airport": "MCT",
+            "departure_time_local": "2026-12-09T08:50:00",
+            "departure_timezone": "Asia/Muscat",
+            "departure_time_utc": "2026-12-09T04:50:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T10:00:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T06:00:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fb1d9bf64e854664852015d185d09887"
+    },
+    {
+      "price": {
+        "amount": 352.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Royal Jordanian",
+        "duration_minutes": 1635,
+        "segments": [
+          {
+            "marketing_carrier_code": "RJ",
+            "flight_number": "118",
+            "operating_carrier_name": "Royal Jordanian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:20:00Z",
+            "arrival_airport": "AMM",
+            "arrival_time_local": "2026-12-08T22:05:00",
+            "arrival_timezone": "Asia/Amman",
+            "arrival_time_utc": "2026-12-08T19:05:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "RJ",
+            "flight_number": "614",
+            "operating_carrier_name": "Royal Jordanian",
+            "departure_airport": "AMM",
+            "departure_time_local": "2026-12-09T17:25:00",
+            "departure_timezone": "Asia/Amman",
+            "departure_time_utc": "2026-12-09T14:25:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T21:35:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T17:35:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0bd647839aea4a8cb32b93f90be2c621"
+    },
+    {
+      "price": {
+        "amount": 423.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Saudia",
+        "duration_minutes": 640,
+        "segments": [
+          {
+            "marketing_carrier_code": "SV",
+            "flight_number": "126",
+            "operating_carrier_name": "Saudia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:15:00Z",
+            "arrival_airport": "JED",
+            "arrival_time_local": "2026-12-08T22:55:00",
+            "arrival_timezone": "Asia/Riyadh",
+            "arrival_time_utc": "2026-12-08T19:55:00Z",
+            "duration_minutes": 340,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "SV",
+            "flight_number": "590",
+            "operating_carrier_name": "Saudia",
+            "departure_airport": "JED",
+            "departure_time_local": "2026-12-09T01:10:00",
+            "departure_timezone": "Asia/Riyadh",
+            "departure_time_utc": "2026-12-08T22:10:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T04:55:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T00:55:00Z",
+            "duration_minutes": 165,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3d24d84052f24418af263a5bd4c55580"
+    },
+    {
+      "price": {
+        "amount": 451.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 540,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2026-12-09T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2026-12-08T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "762",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2026-12-09T01:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2026-12-08T22:30:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T06:55:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T02:55:00Z",
+            "duration_minutes": 265,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ee17809bac7e4e00962881e5ef5effc2"
+    },
+    {
+      "price": {
+        "amount": 467.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Gulf Air",
+        "duration_minutes": 535,
+        "segments": [
+          {
+            "marketing_carrier_code": "GF",
+            "flight_number": "18",
+            "operating_carrier_name": "Gulf Air",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:50:00Z",
+            "arrival_airport": "BAH",
+            "arrival_time_local": "2026-12-08T19:25:00",
+            "arrival_timezone": "Asia/Bahrain",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "GF",
+            "flight_number": "512",
+            "operating_carrier_name": "Gulf Air",
+            "departure_airport": "BAH",
+            "departure_time_local": "2026-12-08T20:20:00",
+            "departure_timezone": "Asia/Bahrain",
+            "departure_time_utc": "2026-12-08T17:20:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-08T22:45:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1fc19e72be0d4646a8e1512ccc710844"
+    },
+    {
+      "price": {
+        "amount": 484.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 530,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1045",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T12:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T11:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "630",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T13:25:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T12:25:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-08T22:55:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T18:55:00Z",
+            "duration_minutes": 390,
+            "aircraft": "Airbus A340"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0a1348eda9a744819f3e8e96e8cb3d4b"
+    },
+    {
+      "price": {
+        "amount": 713.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 405,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "72",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:00:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-08T19:45:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T15:45:00Z",
+            "duration_minutes": 405,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f15b37e288264394ad352c9019d13c40"
+    },
+    {
+      "price": {
+        "amount": 713.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 410,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "74",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T13:25:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T00:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T20:15:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2bfc16ad2ae948b5b129d7bee7d6e210"
+    },
+    {
+      "price": {
+        "amount": 713.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 410,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "76",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T20:30:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T07:20:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c6166ba1c09446fa8333a7c765a4659a"
+    },
+    {
+      "price": {
+        "amount": 1004.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 410,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "662",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T13:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T12:30:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-08T23:20:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T19:20:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "106df51253614c38a42961d361291d5f"
+    },
+    {
+      "price": {
+        "amount": 1004.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 410,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "660",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T17:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T16:10:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T03:00:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T23:00:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3dd5e7fdc42a47e8b5e49d8b6d1881dd"
+    },
+    {
+      "price": {
+        "amount": 1004.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 410,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "658",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T23:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T22:10:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T09:00:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T05:00:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2e075cf8b97b4bbf9a4b52fd7f0c0406"
+    }
+  ],
+  "observed_at": "2026-10-24T21:39:58.238658Z"
+}

@@ -1,0 +1,425 @@
+{
+  "origin": "CDG",
+  "destination": "FCO",
+  "departure_date": "2026-11-14",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 121.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Iberia",
+        "duration_minutes": 595,
+        "segments": [
+          {
+            "marketing_carrier_code": "IB",
+            "flight_number": "574",
+            "operating_carrier_name": "Iberia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:20:00Z",
+            "arrival_airport": "MAD",
+            "arrival_time_local": "2026-11-14T16:30:00",
+            "arrival_timezone": "Europe/Madrid",
+            "arrival_time_utc": "2026-11-14T15:30:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "IB",
+            "flight_number": "657",
+            "operating_carrier_name": "Iberia",
+            "departure_airport": "MAD",
+            "departure_time_local": "2026-11-14T21:50:00",
+            "departure_timezone": "Europe/Madrid",
+            "departure_time_utc": "2026-11-14T20:50:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-15T00:15:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T23:15:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2cae77fa54e34b9e9b91e8d574ff7b44"
+    },
+    {
+      "price": {
+        "amount": 126.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Vueling",
+        "duration_minutes": 555,
+        "segments": [
+          {
+            "marketing_carrier_code": "VY",
+            "flight_number": "8061",
+            "operating_carrier_name": "Vueling",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T09:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T08:50:00Z",
+            "arrival_airport": "BCN",
+            "arrival_time_local": "2026-11-14T11:45:00",
+            "arrival_timezone": "Europe/Madrid",
+            "arrival_time_utc": "2026-11-14T10:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "VY",
+            "flight_number": "6014",
+            "operating_carrier_name": "Vueling",
+            "departure_airport": "BCN",
+            "departure_time_local": "2026-11-14T17:20:00",
+            "departure_timezone": "Europe/Madrid",
+            "departure_time_utc": "2026-11-14T16:20:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T19:05:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T18:05:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "663a1c8cdae746478a949dbceaf3bbed"
+    },
+    {
+      "price": {
+        "amount": 132.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1304",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T16:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T15:20:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T18:25:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T17:25:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8994aded5768486f8af28e16435c6f2f"
+    },
+    {
+      "price": {
+        "amount": 132.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1404",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:40:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T19:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T18:45:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "547051690c11495bbb2a255346688d62"
+    },
+    {
+      "price": {
+        "amount": 132.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1004",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T20:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T19:40:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T22:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T21:45:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "70bdb4cc2cfd46e1a6586bd01a11a567"
+    },
+    {
+      "price": {
+        "amount": 136.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1204",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T06:15:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T09:20:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T08:20:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "abbc7af04e2045ddab2cf1e0e313dc68"
+    },
+    {
+      "price": {
+        "amount": 145.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1504",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T12:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T11:55:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T15:00:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T14:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e38715a1c9ea4583aab7c1baea5ddedc"
+    },
+    {
+      "price": {
+        "amount": 166.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "317",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T06:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T05:10:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T08:15:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T07:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d101ce992d67461a88b11a54198b1086"
+    },
+    {
+      "price": {
+        "amount": 166.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "319",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:40:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T13:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T12:45:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "73ad2a5d3ebd4cbeaeca8f416031ad27"
+    },
+    {
+      "price": {
+        "amount": 167.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1104",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T08:20:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T11:30:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T10:30:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ae9620f9398645b08d660d471cb383f9"
+    },
+    {
+      "price": {
+        "amount": 181.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-11-14T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1736",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-11-14T12:25:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-14T11:25:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T14:00:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T13:00:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "23e14d44b50847a4a16ed8adb712fbba"
+    },
+    {
+      "price": {
+        "amount": 202.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "325",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T18:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T17:15:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T20:20:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T19:20:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c43f3a1100884e3b8588b522a38c1b61"
+    }
+  ],
+  "observed_at": "2026-10-24T21:33:49.984677Z"
+}

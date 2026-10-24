@@ -1,0 +1,624 @@
+{
+  "origin": "CDG",
+  "destination": "JFK",
+  "departure_date": "2027-01-22",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 411.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "JetBlue",
+        "duration_minutes": 532,
+        "segments": [
+          {
+            "marketing_carrier_code": "B6",
+            "flight_number": "1408",
+            "operating_carrier_name": "JetBlue",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:20:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T14:12:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T19:12:00Z",
+            "duration_minutes": 532,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ec9f3db037594b208c0852b9da3bd80d"
+    },
+    {
+      "price": {
+        "amount": 443.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 724,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "107",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-22T16:35:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-22T16:35:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T19:29:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-23T00:29:00Z",
+            "duration_minutes": 474,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "34183482adaa4910819b448bd51f6f17"
+    },
+    {
+      "price": {
+        "amount": 446.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 640,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "309",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:10:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T15:35:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T15:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "113",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T16:40:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T19:50:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-23T00:50:00Z",
+            "duration_minutes": 490,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5a115f8dd17e49588cb4d4f4f549dc57"
+    },
+    {
+      "price": {
+        "amount": 446.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 700,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "305",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:40:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "115",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T14:15:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T14:15:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T17:20:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T22:20:00Z",
+            "duration_minutes": 485,
+            "aircraft": "Boeing 787-10"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a9133635124844719435edafab1d24b4"
+    },
+    {
+      "price": {
+        "amount": 446.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 725,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "323",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:05:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T07:35:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AA",
+            "flight_number": "103",
+            "operating_carrier_name": "American",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T13:10:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 475,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "dcb48d556df3417c9b7e35eb08b3d3f3"
+    },
+    {
+      "price": {
+        "amount": 446.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 785,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "305",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:40:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AA",
+            "flight_number": "107",
+            "operating_carrier_name": "American",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T15:35:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T18:45:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T23:45:00Z",
+            "duration_minutes": 490,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "218a2cb06a2140509b465da016969d59"
+    },
+    {
+      "price": {
+        "amount": 450.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "American",
+        "duration_minutes": 510,
+        "segments": [
+          {
+            "marketing_carrier_code": "AA",
+            "flight_number": "43",
+            "operating_carrier_name": "American",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:25:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T13:55:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T18:55:00Z",
+            "duration_minutes": 510,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2c656165befb4ae588b68ab487d85a4a"
+    },
+    {
+      "price": {
+        "amount": 498.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Iberia",
+        "duration_minutes": 755,
+        "segments": [
+          {
+            "marketing_carrier_code": "IB",
+            "flight_number": "586",
+            "operating_carrier_name": "Iberia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:40:00Z",
+            "arrival_airport": "MAD",
+            "arrival_time_local": "2027-01-22T14:55:00",
+            "arrival_timezone": "Europe/Madrid",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "IB",
+            "flight_number": "325",
+            "operating_carrier_name": "Iberia",
+            "departure_airport": "MAD",
+            "departure_time_local": "2027-01-22T16:00:00",
+            "departure_timezone": "Europe/Madrid",
+            "departure_time_utc": "2027-01-22T15:00:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T19:15:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-23T00:15:00Z",
+            "duration_minutes": 555,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a98d2bc09ebd41efb7c896c8f95fd5e1"
+    },
+    {
+      "price": {
+        "amount": 500.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Icelandair",
+        "duration_minutes": 650,
+        "segments": [
+          {
+            "marketing_carrier_code": "FI",
+            "flight_number": "545",
+            "operating_carrier_name": "Icelandair",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:10:00Z",
+            "arrival_airport": "KEF",
+            "arrival_time_local": "2027-01-22T15:50:00",
+            "arrival_timezone": "Atlantic/Reykjavik",
+            "arrival_time_utc": "2027-01-22T15:50:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "FI",
+            "flight_number": "615",
+            "operating_carrier_name": "Icelandair",
+            "departure_airport": "KEF",
+            "departure_time_local": "2027-01-22T16:50:00",
+            "departure_timezone": "Atlantic/Reykjavik",
+            "departure_time_utc": "2027-01-22T16:50:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T18:00:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T23:00:00Z",
+            "duration_minutes": 370,
+            "aircraft": "Boeing 737MAX 9 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4557a24d174f43a997fbf17b1077c63d"
+    },
+    {
+      "price": {
+        "amount": 504.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 650,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1408",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T15:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T14:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "643",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T17:05:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T16:05:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T19:20:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-23T00:20:00Z",
+            "duration_minutes": 495,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3252950d9423475080be14b99d4d026a"
+    },
+    {
+      "price": {
+        "amount": 513.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 505,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "2",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T10:55:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T15:55:00Z",
+            "duration_minutes": 505,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ec8fe29be23c4f55913336f9626562f1"
+    },
+    {
+      "price": {
+        "amount": 513.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 505,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "4",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:30:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T17:55:00Z",
+            "duration_minutes": 505,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "08fa540ec2cb44629d17453238bb34ec"
+    },
+    {
+      "price": {
+        "amount": 513.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 510,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "6",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:30:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T16:00:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T21:00:00Z",
+            "duration_minutes": 510,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d2473d02cd854c2c9801b1c9268c8693"
+    },
+    {
+      "price": {
+        "amount": 513.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 515,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "8",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:30:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-23T00:05:00Z",
+            "duration_minutes": 515,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a528d62133644f65b25902463ff9c47e"
+    },
+    {
+      "price": {
+        "amount": 513.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Delta",
+        "duration_minutes": 522,
+        "segments": [
+          {
+            "marketing_carrier_code": "DL",
+            "flight_number": "267",
+            "operating_carrier_name": "Delta",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:40:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T17:22:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T22:22:00Z",
+            "duration_minutes": 522,
+            "aircraft": "Boeing 767"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a163c26c248143c29e1b3977b9e5149e"
+    },
+    {
+      "price": {
+        "amount": 513.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Delta",
+        "duration_minutes": 528,
+        "segments": [
+          {
+            "marketing_carrier_code": "DL",
+            "flight_number": "263",
+            "operating_carrier_name": "Delta",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "JFK",
+            "arrival_time_local": "2027-01-22T15:18:00",
+            "arrival_timezone": "America/New_York",
+            "arrival_time_utc": "2027-01-22T20:18:00Z",
+            "duration_minutes": 528,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "662c7bbf1c6e497ba6f1271caa38672c"
+    }
+  ],
+  "observed_at": "2026-10-24T21:43:58.910923Z"
+}

@@ -1,0 +1,1459 @@
+{
+  "origin": "CDG",
+  "destination": "ALG",
+  "departure_date": "2026-11-14",
+  "return_date": "2026-11-21",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 196.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1231",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T10:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T09:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1000",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T10:30:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T09:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T13:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T12:00:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c943216788ce4f08acf30a5a3073f021"
+    },
+    {
+      "price": {
+        "amount": 196.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1231",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T10:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T09:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1002",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T07:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T06:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T09:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T08:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1b3e8f26e40a4b9b9a4e0801b8064faa"
+    },
+    {
+      "price": {
+        "amount": 240.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 315,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "319",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:40:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T13:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T12:45:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "800",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-11-14T15:00:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-11-14T14:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:55:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "ITA",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "801",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T17:55:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T16:55:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-21T19:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-21T18:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "332",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-11-21T21:25:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-11-21T20:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T23:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T22:40:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "336892df20714318a0f0d13eac2b7d05"
+    },
+    {
+      "price": {
+        "amount": 253.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "325",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T18:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T17:15:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T20:20:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T19:20:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "802",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-11-14T22:10:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-11-14T21:10:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-15T00:05:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T23:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "ITA",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "801",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T17:55:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T16:55:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-21T19:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-21T18:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "332",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-11-21T21:25:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-11-21T20:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T23:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T22:40:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1e287e9f958a474889aeae6a0c161ad2"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 145,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1054",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:05:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T23:30:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T22:30:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 155,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1055",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T06:00:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T05:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T08:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T07:35:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5081213229ee414fa7b8d1d49dd7b2e7"
+    },
+    {
+      "price": {
+        "amount": 264.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 145,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1854",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T09:10:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T12:35:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T11:35:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 155,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1055",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T06:00:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T05:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T08:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T07:35:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "cd11e9d70c7b4fb8a74971662cbd88f8"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 145,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1054",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:05:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T23:30:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T22:30:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1855",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:55:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T16:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T15:25:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8bdc1afb1e0247ab9794f7b400b58510"
+    },
+    {
+      "price": {
+        "amount": 325.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1003",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:15:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T13:30:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T12:30:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1000",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T10:30:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T09:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T13:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T12:00:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "67399b5b9acd492dae97538dd8aabf31"
+    },
+    {
+      "price": {
+        "amount": 325.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1003",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:15:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T13:30:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T12:30:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1002",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T07:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T06:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T09:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T08:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d11211fd531b4651a0ad53992e028f01"
+    },
+    {
+      "price": {
+        "amount": 325.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1001",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:30:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:45:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:45:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1000",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T10:30:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T09:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T13:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T12:00:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c64974e80b084a6bacdfaaa288aeb682"
+    },
+    {
+      "price": {
+        "amount": 325.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1001",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:30:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:45:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:45:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1002",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T07:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T06:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T09:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T08:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a42863ce756e4d8db70c54f9ac900ba5"
+    },
+    {
+      "price": {
+        "amount": 325.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1215",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T19:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T18:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1000",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T10:30:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T09:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T13:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T12:00:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6597795747a141fdbf362ed9d39bded2"
+    },
+    {
+      "price": {
+        "amount": 325.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1215",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T19:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T18:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1002",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T07:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T06:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T09:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T08:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "296165825eb14ebb99462e07ad1d63db"
+    },
+    {
+      "price": {
+        "amount": 326.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 145,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1854",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T09:10:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T12:35:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T11:35:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1855",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:55:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T16:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T15:25:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "929ee0b41875421e92ef37a2c6998435"
+    },
+    {
+      "price": {
+        "amount": 337.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "325",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T18:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T17:15:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T20:20:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T19:20:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "802",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-11-14T22:10:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-11-14T21:10:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-15T00:05:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T23:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 560,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1317",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:35:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:35:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-21T16:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-21T15:10:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-11-21T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-11-21T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "87dd14fe5db34cecaaf0818af6b66c86"
+    },
+    {
+      "price": {
+        "amount": 346.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 315,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "319",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:40:00Z",
+            "arrival_airport": "FCO",
+            "arrival_time_local": "2026-11-14T13:45:00",
+            "arrival_timezone": "Europe/Rome",
+            "arrival_time_utc": "2026-11-14T12:45:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "800",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-11-14T15:00:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-11-14T14:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:55:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 560,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1317",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:35:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:35:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-21T16:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-21T15:10:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-11-21T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-11-21T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "eefde764a6b5429ea3d4f61efc6b6dac"
+    },
+    {
+      "price": {
+        "amount": 354.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1231",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T10:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T09:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1214",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T15:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T14:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c62984a8e3144dd2879692edc93dedfb"
+    },
+    {
+      "price": {
+        "amount": 354.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1231",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T10:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T09:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1230",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T18:45:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T17:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T21:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T20:15:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1e85da543fd145f09f999afc55972c24"
+    },
+    {
+      "price": {
+        "amount": 483.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1003",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:15:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T13:30:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T12:30:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1214",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T15:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T14:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "16336682736944b5a5352fa05a58ab75"
+    },
+    {
+      "price": {
+        "amount": 483.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1003",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:15:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T13:30:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T12:30:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1230",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T18:45:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T17:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T21:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T20:15:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b194adbebe0a49e78774774eab4845fc"
+    },
+    {
+      "price": {
+        "amount": 483.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1001",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:30:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:45:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:45:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1214",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T15:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T14:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f973b51efc1b4b5ea6c9d3a82522bfc6"
+    },
+    {
+      "price": {
+        "amount": 483.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1001",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:30:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:45:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:45:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1230",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T18:45:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T17:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T21:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T20:15:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4a6c876a93db40d1a889e587fa1ee685"
+    },
+    {
+      "price": {
+        "amount": 483.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1215",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T19:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T18:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1214",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T15:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T14:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "00582172ff4b430f823ec1378e55368b"
+    },
+    {
+      "price": {
+        "amount": 483.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1215",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T19:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T18:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1230",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T18:45:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T17:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T21:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T20:15:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4c963c5c2601472e9effb79fe931d9d6"
+    },
+    {
+      "price": {
+        "amount": 2447.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1231",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T10:15:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T09:15:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 495,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1020",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:40:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:40:00Z",
+            "arrival_airport": "MRS",
+            "arrival_time_local": "2026-11-21T15:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T14:10:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1470",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "MRS",
+            "departure_time_local": "2026-11-21T17:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-21T16:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-11-21T19:20:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-11-21T18:20:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-11-21T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-11-21T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "75a8c6182c3d4555a9b0fbcb0066a9d4"
+    }
+  ],
+  "observed_at": "2026-10-24T21:36:40.515364Z"
+}

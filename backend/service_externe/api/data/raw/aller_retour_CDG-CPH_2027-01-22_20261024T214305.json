@@ -1,0 +1,4833 @@
+{
+  "origin": "CDG",
+  "destination": "CPH",
+  "departure_date": "2027-01-22",
+  "return_date": "2027-01-29",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 198.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2233",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T19:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2446",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T21:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T20:35:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 690,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2447",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:05:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T07:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:45:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "36f0341448b84ad8b19554108b8ac330"
+    },
+    {
+      "price": {
+        "amount": 198.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 385,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2440",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T10:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T09:50:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T12:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T11:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 690,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2447",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:05:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T07:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:45:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4a4a2f79558b48d899d469877080715d"
+    },
+    {
+      "price": {
+        "amount": 205.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2233",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T19:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2446",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T21:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T20:35:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 260,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1267",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T09:50:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T11:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T10:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "638",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T12:50:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "81acb1d7905342b08c688233aeb0cb8a"
+    },
+    {
+      "price": {
+        "amount": 205.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 385,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2440",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T10:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T09:50:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T12:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T11:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 260,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1267",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T09:50:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T11:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T10:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "638",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T12:50:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "39089fdafea143d8896717cd563a01b4"
+    },
+    {
+      "price": {
+        "amount": 205.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1272",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T17:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T16:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T18:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Embraer 190 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 690,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2447",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:05:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T07:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:45:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3afbe91dc3c245579ecd10523622e7d3"
+    },
+    {
+      "price": {
+        "amount": 205.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1270",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:10:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 690,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2447",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:05:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T07:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:45:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3fb5ee4082b040648e25598def3c0034"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1850",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:45:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:40:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3f7e0ce1ccca433aa5838b178a35df4f"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1750",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T09:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T08:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6a1706d554d24427b317bf7e3dd5f957"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1050",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3497137d00884ced9a136a1189e24b48"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1350",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1059cc1142f54835818e7b1c8868d676"
+    },
+    {
+      "price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2233",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T19:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2446",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T21:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T20:35:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "829",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:10:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:40:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d23b4e9cbce842b5a0bc5c94de2fdc9e"
+    },
+    {
+      "price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2233",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T19:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2446",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T21:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T20:35:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 250,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "827",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T15:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T14:45:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "0b97a0fe4099442d89b9d6d122f3d2cb"
+    },
+    {
+      "price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 385,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2440",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T10:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T09:50:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T12:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T11:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "829",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:10:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:40:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "8801d3d13a434c91a8786b8d9a870ddb"
+    },
+    {
+      "price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 385,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2440",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T10:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T09:50:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T12:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T11:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 250,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "827",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T15:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T14:45:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "3c46d43db483435cb63095bf82b940ea"
+    },
+    {
+      "price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2233",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T19:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2446",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T21:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T20:35:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "825",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:40:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "57ccca7a67b04ce8b11433ada0e95b36"
+    },
+    {
+      "price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 385,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2440",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T10:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T09:50:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T12:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T11:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "825",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:40:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "1564255546584ee0878865a53281ebc2"
+    },
+    {
+      "price": {
+        "amount": 211.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1272",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T17:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T16:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T18:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Embraer 190 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 260,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1267",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T09:50:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T11:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T10:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "638",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T12:50:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "04c8716036c74775883365be8e02c606"
+    },
+    {
+      "price": {
+        "amount": 211.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1270",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:10:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 260,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1267",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T09:50:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T11:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T10:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "638",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T12:50:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "26f87a2dbc4d46529124372752e9fc1d"
+    },
+    {
+      "price": {
+        "amount": 214.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1272",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T17:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T16:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T18:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Embraer 190 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "829",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:10:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:40:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9968a648b6a344a6b733ff91a9ba81a6"
+    },
+    {
+      "price": {
+        "amount": 214.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1270",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:10:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "829",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:10:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:40:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7c51eaf0c0d94fe0af11a4c05b582571"
+    },
+    {
+      "price": {
+        "amount": 214.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1272",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T17:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T16:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T18:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Embraer 190 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 250,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "827",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T15:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T14:45:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "d615cdaf39664bed9ab791dbfe4f65a3"
+    },
+    {
+      "price": {
+        "amount": 214.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1270",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:10:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 250,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "827",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T15:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T14:45:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "514d4337f7d74c72b3cfc79c6f47e405"
+    },
+    {
+      "price": {
+        "amount": 214.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1272",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T17:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T16:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T18:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Embraer 190 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "825",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:40:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2e5d1fcc3cbd4ca0847230035e1e6c0f"
+    },
+    {
+      "price": {
+        "amount": 214.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1270",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:10:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "825",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:40:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fe033c745968422e8afd256600eb83f9"
+    },
+    {
+      "price": {
+        "amount": 218.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1850",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:45:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:40:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "847afe2304f141058c1a59a2cae2f086"
+    },
+    {
+      "price": {
+        "amount": 218.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1750",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T09:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T08:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "29f3f6837d8c412fb307de22f83ed201"
+    },
+    {
+      "price": {
+        "amount": 218.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1050",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "bcbe6ff253b14d7495e12ff1b10a57f9"
+    },
+    {
+      "price": {
+        "amount": 218.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1350",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "cc39dc85d2a7439885e6e179251a0fd2"
+    },
+    {
+      "price": {
+        "amount": 228.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1272",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T17:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T16:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T19:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T18:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Embraer 190 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1271",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:00:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6548749c990d479aa794b91d3f7f8402"
+    },
+    {
+      "price": {
+        "amount": 228.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1270",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:10:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1271",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:00:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a7d54b34544b4ee4af8c9c26a0b0e72a"
+    },
+    {
+      "price": {
+        "amount": 234.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1410",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:40:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1279",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T21:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T20:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "47a489104b834f408caa770eb2e7188b"
+    },
+    {
+      "price": {
+        "amount": 246.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1410",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:40:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1279",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T21:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T20:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "df7ded595ab149c18b68ff99cb821a21"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1750",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T09:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T08:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "49933b3cf1034224af2a3549121f6fbb"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1050",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "61d2b38cf73e45ad8472870646201117"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1350",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f60c957488574554a2a9b818cc7ae06c"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1750",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T09:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T08:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0350d45bc54b4c9ab4863aeb3419348c"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1050",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "adb08103ceb24a2fb7580a873b17cba8"
+    },
+    {
+      "price": {
+        "amount": 262.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1350",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5a24da4cfb834f328ecbbdfec51437bd"
+    },
+    {
+      "price": {
+        "amount": 263.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1850",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:45:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:40:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "87df0de68c454b9d85bcb698d8b89f08"
+    },
+    {
+      "price": {
+        "amount": 263.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1850",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:45:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:40:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0aed3564e54345feb91d2363f6abf959"
+    },
+    {
+      "price": {
+        "amount": 266.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1750",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T09:10:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T08:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8ba1d0aff6dd4a73af1385e94bd83b88"
+    },
+    {
+      "price": {
+        "amount": 266.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1050",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "35b5566dcd924ba5981570fde316c7d2"
+    },
+    {
+      "price": {
+        "amount": 266.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1350",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:00:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T23:00:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T22:00:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "03df95ef581947e3bc7c15a8a3264219"
+    },
+    {
+      "price": {
+        "amount": 268.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1850",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:45:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T14:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T13:40:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "267c9c1a774d4e46a5b9b20e9a748ca5"
+    },
+    {
+      "price": {
+        "amount": 270.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1404",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T11:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T10:10:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1271",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b6b11c71297f45a591b8a112206b7710"
+    },
+    {
+      "price": {
+        "amount": 282.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1404",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T11:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T10:10:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1271",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ed40acc84b69478ea9470986bc800df0"
+    },
+    {
+      "price": {
+        "amount": 291.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1410",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:40:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1279",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T21:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T20:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ba7571ebbce14f54a8485df082e0af54"
+    },
+    {
+      "price": {
+        "amount": 291.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1410",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:40:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1279",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T21:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T20:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "158f3ed5598e4a13b57c0a22645fb8ab"
+    },
+    {
+      "price": {
+        "amount": 296.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1410",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:40:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1279",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T21:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T20:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4ccacf0588f346fdba56a8c58df6734f"
+    },
+    {
+      "price": {
+        "amount": 326.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1404",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T11:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T10:10:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1271",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c8a8391ad729410c870204997c87a95b"
+    },
+    {
+      "price": {
+        "amount": 326.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1404",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T11:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T10:10:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1271",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ade8af01b4734974a3ee4ce89cae7b77"
+    },
+    {
+      "price": {
+        "amount": 330.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1404",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T11:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T10:10:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1271",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:20:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7920bc405bd24e61824546b9071c60b9"
+    },
+    {
+      "price": {
+        "amount": 398.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1440",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "554",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T20:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T19:25:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T21:45:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T20:45:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1051",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:55:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:00:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "bff7ede3c3e147de90ce053593b29eee"
+    },
+    {
+      "price": {
+        "amount": 426.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1440",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "554",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T20:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T19:25:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T21:45:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T20:45:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1272",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T14:15:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T15:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T14:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "0afef3e5b6cc46d3816f73be30f4ed82"
+    },
+    {
+      "price": {
+        "amount": 454.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1440",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "554",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T20:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T19:25:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T21:45:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T20:45:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1851",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T15:35:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T14:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "38907a312108486c971d51875be331ed"
+    },
+    {
+      "price": {
+        "amount": 454.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1440",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "554",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T20:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T19:25:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T21:45:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T20:45:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1351",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T06:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "7928d57f538c436ea6a7bb26e0eed7f8"
+    },
+    {
+      "price": {
+        "amount": 459.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1440",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T18:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "554",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T20:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T19:25:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T21:45:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T20:45:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1751",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T10:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T09:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "1afa70d549c4430bb03d38e131e5c1d7"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "566",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "559",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:25:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T19:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T18:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "668e8e5a1317425e9bb9537e17b7fb62"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "566",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "567",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:45:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e67367a2f413436d8aace46bf985a5e1"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "568",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:30:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "559",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:25:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T19:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T18:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b1e661f94dbe42bf90766725e9f596da"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "568",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:30:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "567",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:45:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2da40b97ad0941bd9828916843418d65"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "560",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "559",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T17:25:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T16:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T19:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T18:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "13aafe8f3d674c349b54bcc8cfe7c2ec"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "560",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "567",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T11:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:45:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e3422e8a1f0241d4997d5b21cf621898"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "566",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "565",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T08:20:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T07:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:25:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3e8224489f6642a39e8dea40826de6ae"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "568",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:30:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "565",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T08:20:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T07:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:25:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0ef3b1d6a00742628f4cc2422d27d503"
+    },
+    {
+      "price": {
+        "amount": 101.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "560",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "565",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T08:20:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T07:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:25:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e16b0bbc1f834698bc57bc987535c139"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "566",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1470",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:05:00Z",
+            "arrival_airport": "OSL",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Oslo",
+            "arrival_time_utc": "2027-01-29T19:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1275",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "OSL",
+            "departure_time_local": "2027-01-30T06:15:00",
+            "departure_timezone": "Europe/Oslo",
+            "departure_time_utc": "2027-01-30T05:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:05:00Z",
+            "duration_minutes": 170,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "9788d2821dfb458d9605dae7709378da"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "568",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:30:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1470",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:05:00Z",
+            "arrival_airport": "OSL",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Oslo",
+            "arrival_time_utc": "2027-01-29T19:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1275",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "OSL",
+            "departure_time_local": "2027-01-30T06:15:00",
+            "departure_timezone": "Europe/Oslo",
+            "departure_time_utc": "2027-01-30T05:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:05:00Z",
+            "duration_minutes": 170,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "7a764aafd61849f7ae6a55beec021e57"
+    },
+    {
+      "price": {
+        "amount": 206.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "560",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1470",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:05:00Z",
+            "arrival_airport": "OSL",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Oslo",
+            "arrival_time_utc": "2027-01-29T19:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1275",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "OSL",
+            "departure_time_local": "2027-01-30T06:15:00",
+            "departure_timezone": "Europe/Oslo",
+            "departure_time_utc": "2027-01-30T05:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:05:00Z",
+            "duration_minutes": 170,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "ad5f11e8b9294ffab2dc53d0a10aa5d3"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "566",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T13:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 975,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1470",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:05:00Z",
+            "arrival_airport": "OSL",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Oslo",
+            "arrival_time_utc": "2027-01-29T19:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "837",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "OSL",
+            "departure_time_local": "2027-01-30T08:45:00",
+            "departure_timezone": "Europe/Oslo",
+            "departure_time_utc": "2027-01-30T07:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T11:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T10:20:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Embraer 195"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "df26b7bff0914ffea58641cb27e77d68"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "568",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:30:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T17:25:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 975,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1470",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:05:00Z",
+            "arrival_airport": "OSL",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Oslo",
+            "arrival_time_utc": "2027-01-29T19:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "837",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "OSL",
+            "departure_time_local": "2027-01-30T08:45:00",
+            "departure_timezone": "Europe/Oslo",
+            "departure_time_utc": "2027-01-30T07:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T11:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T10:20:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Embraer 195"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ecd317db3f1f448d81fc7ae32013071c"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "560",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2027-01-22T22:05:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2027-01-22T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 975,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1470",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2027-01-29T18:05:00Z",
+            "arrival_airport": "OSL",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Oslo",
+            "arrival_time_utc": "2027-01-29T19:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "837",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "OSL",
+            "departure_time_local": "2027-01-30T08:45:00",
+            "departure_timezone": "Europe/Oslo",
+            "departure_time_utc": "2027-01-30T07:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T11:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T10:20:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Embraer 195"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4419dc68bf244494a0c6a579369c895f"
+    }
+  ],
+  "observed_at": "2026-10-24T21:43:05.735990Z"
+}

@@ -1,0 +1,2457 @@
+{
+  "origin": "CDG",
+  "destination": "DLA",
+  "departure_date": "2026-11-14",
+  "return_date": "2026-11-21",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 723.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Royal Air Maroc",
+        "duration_minutes": 650,
+        "segments": [
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "789",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:35:00Z",
+            "arrival_airport": "CMN",
+            "arrival_time_local": "2026-11-14T19:45:00",
+            "arrival_timezone": "Africa/Casablanca",
+            "arrival_time_utc": "2026-11-14T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "281",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CMN",
+            "departure_time_local": "2026-11-14T22:15:00",
+            "departure_timezone": "Africa/Casablanca",
+            "departure_time_utc": "2026-11-14T22:15:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T04:25:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T03:25:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Royal Air Maroc",
+        "duration_minutes": 1790,
+        "segments": [
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "280",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T05:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T04:25:00Z",
+            "arrival_airport": "CMN",
+            "arrival_time_local": "2026-11-21T09:55:00",
+            "arrival_timezone": "Africa/Casablanca",
+            "arrival_time_utc": "2026-11-21T09:55:00Z",
+            "duration_minutes": 330,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "778",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CMN",
+            "departure_time_local": "2026-11-22T07:10:00",
+            "departure_timezone": "Africa/Casablanca",
+            "departure_time_utc": "2026-11-22T07:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T11:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T10:15:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b9ff7bdac78942488381571f78bf7c17"
+    },
+    {
+      "price": {
+        "amount": 736.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Royal Air Maroc",
+        "duration_minutes": 650,
+        "segments": [
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "789",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:35:00Z",
+            "arrival_airport": "CMN",
+            "arrival_time_local": "2026-11-14T19:45:00",
+            "arrival_timezone": "Africa/Casablanca",
+            "arrival_time_utc": "2026-11-14T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "281",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CMN",
+            "departure_time_local": "2026-11-14T22:15:00",
+            "departure_timezone": "Africa/Casablanca",
+            "departure_time_utc": "2026-11-14T22:15:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T04:25:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T03:25:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Royal Air Maroc",
+        "duration_minutes": 660,
+        "segments": [
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "280",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T05:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T04:25:00Z",
+            "arrival_airport": "CMN",
+            "arrival_time_local": "2026-11-21T09:55:00",
+            "arrival_timezone": "Africa/Casablanca",
+            "arrival_time_utc": "2026-11-21T09:55:00Z",
+            "duration_minutes": 330,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "788",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CMN",
+            "departure_time_local": "2026-11-21T12:20:00",
+            "departure_timezone": "Africa/Casablanca",
+            "departure_time_utc": "2026-11-21T12:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T16:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T15:25:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "309936febe2d4afa81b071ed5e59ffe1"
+    },
+    {
+      "price": {
+        "amount": 861.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 1680,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-11-14T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "786",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-11-15T07:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T08:40:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T07:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-100 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 775,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3633",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T08:15:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T07:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "358d9956acfe462a913515251289b69a"
+    },
+    {
+      "price": {
+        "amount": 895.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 1385,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-11-14T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "786",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-11-15T07:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T08:40:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T07:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-100 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 775,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3633",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T08:15:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T07:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "95d4307e69ff4bfdba8f34cda76d839f"
+    },
+    {
+      "price": {
+        "amount": 949.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 1385,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-11-14T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "786",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-11-15T07:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T08:40:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T07:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-100 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 670,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "88b2dc4c55984722820dd682af38faaa"
+    },
+    {
+      "price": {
+        "amount": 949.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 1680,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "639",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T15:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T14:00:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-11-14T16:15:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T15:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "786",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-11-15T07:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T08:40:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T07:40:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-100 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 670,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "331478a15185416b9e080ccb45997ee8"
+    },
+    {
+      "price": {
+        "amount": 957.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 2045,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1001",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:30:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-14T16:45:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-14T15:45:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "5348",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-15T19:30:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-15T18:30:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-16T00:35:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T23:35:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Algerie",
+        "duration_minutes": 850,
+        "segments": [
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "5349",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T01:35:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T00:35:00Z",
+            "arrival_airport": "ALG",
+            "arrival_time_local": "2026-11-21T06:40:00",
+            "arrival_timezone": "Africa/Algiers",
+            "arrival_time_utc": "2026-11-21T05:40:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AH",
+            "flight_number": "1214",
+            "operating_carrier_name": "Air Algerie",
+            "departure_airport": "ALG",
+            "departure_time_local": "2026-11-21T13:15:00",
+            "departure_timezone": "Africa/Algiers",
+            "departure_time_utc": "2026-11-21T12:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T15:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T14:45:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2ba4b87f39ab4aa29458ca46d3089080"
+    },
+    {
+      "price": {
+        "amount": 1079.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1242",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:30:00Z",
+            "arrival_airport": "GVA",
+            "arrival_time_local": "2026-11-14T22:40:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T21:40:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "790",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "GVA",
+            "departure_time_local": "2026-11-15T07:00:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T08:15:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T07:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 775,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3633",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T08:15:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T07:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2ed262a1d0f1471fa1a510fdaee30b09"
+    },
+    {
+      "price": {
+        "amount": 1079.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1242",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:30:00Z",
+            "arrival_airport": "GVA",
+            "arrival_time_local": "2026-11-14T22:40:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T21:40:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "2712",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "GVA",
+            "departure_time_local": "2026-11-15T08:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T07:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T09:35:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T08:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 775,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3633",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T08:15:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T07:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "0f730874b9994efbb123b7a9cb3e66f6"
+    },
+    {
+      "price": {
+        "amount": 1158.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1242",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:30:00Z",
+            "arrival_airport": "GVA",
+            "arrival_time_local": "2026-11-14T22:40:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T21:40:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "790",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "GVA",
+            "departure_time_local": "2026-11-15T07:00:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T06:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T08:15:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T07:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 670,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "f854c050785547dcab05ff36378fb85e"
+    },
+    {
+      "price": {
+        "amount": 1158.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1242",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:30:00Z",
+            "arrival_airport": "GVA",
+            "arrival_time_local": "2026-11-14T22:40:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-11-14T21:40:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "2712",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "GVA",
+            "departure_time_local": "2026-11-15T08:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-11-15T07:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-15T09:35:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-15T08:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "383",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-15T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-15T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 670,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4bcd0358b50947fc8521b13909dc847f"
+    },
+    {
+      "price": {
+        "amount": 1220.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1705,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "706",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:20:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-14T22:50:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-14T22:50:00Z",
+            "duration_minutes": 390,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "806",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-15T16:30:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-15T16:30:00Z",
+            "arrival_airport": "ABV",
+            "arrival_time_local": "2026-11-15T19:40:00",
+            "arrival_timezone": "Africa/Lagos",
+            "arrival_time_utc": "2026-11-15T18:40:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "806",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABV",
+            "departure_time_local": "2026-11-15T20:30:00",
+            "departure_timezone": "Africa/Lagos",
+            "departure_time_utc": "2026-11-15T19:30:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T21:45:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T20:45:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Cote D'Ivoire",
+        "duration_minutes": 1245,
+        "segments": [
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T09:00:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T08:00:00Z",
+            "arrival_airport": "ABV",
+            "arrival_time_local": "2026-11-21T10:15:00",
+            "arrival_timezone": "Africa/Lagos",
+            "arrival_time_utc": "2026-11-21T09:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABV",
+            "departure_time_local": "2026-11-21T11:05:00",
+            "departure_timezone": "Africa/Lagos",
+            "departure_time_utc": "2026-11-21T10:05:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-21T12:15:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-21T12:15:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "703",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-21T22:10:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-21T22:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T05:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T04:45:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "5db727e0af244a22994fb1405542463b"
+    },
+    {
+      "price": {
+        "amount": 1305.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Cote D'Ivoire",
+        "duration_minutes": 745,
+        "segments": [
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "177",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-14T13:40:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-14T13:40:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330-900neo"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "802",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-14T15:10:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-14T15:10:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-14T18:50:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T17:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "802",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-14T19:40:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-14T18:40:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-14T20:25:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T19:25:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Cote D'Ivoire",
+        "duration_minutes": 1245,
+        "segments": [
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T09:00:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T08:00:00Z",
+            "arrival_airport": "ABV",
+            "arrival_time_local": "2026-11-21T10:15:00",
+            "arrival_timezone": "Africa/Lagos",
+            "arrival_time_utc": "2026-11-21T09:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABV",
+            "departure_time_local": "2026-11-21T11:05:00",
+            "departure_timezone": "Africa/Lagos",
+            "departure_time_utc": "2026-11-21T10:05:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-21T12:15:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-21T12:15:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "703",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-21T22:10:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-21T22:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T05:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T04:45:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "f027621bb4eb4af0bedda520dc4396ba"
+    },
+    {
+      "price": {
+        "amount": 1317.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1635,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "735",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:15:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-15T06:35:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "963",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-15T21:45:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-15T18:45:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-16T00:30:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T23:30:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1750,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "962",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T01:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T00:20:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-21T08:05:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-21T05:05:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "734",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-22T00:30:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-21T21:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T06:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T05:30:00Z",
+            "duration_minutes": 480,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0d00d66242ec4cd4bd0358508f881a0d"
+    },
+    {
+      "price": {
+        "amount": 1379.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1635,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "735",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:15:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-15T06:35:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "963",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-15T21:45:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-15T18:45:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-16T00:30:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T23:30:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 965,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "923",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T14:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T13:25:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-21T20:55:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-21T17:55:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "734",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-22T00:30:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-21T21:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T06:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T05:30:00Z",
+            "duration_minutes": 480,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "97f0ce82035741f085a36fbc7dc75cb8"
+    },
+    {
+      "price": {
+        "amount": 1429.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 860,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "735",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:15:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-15T06:35:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "913",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-15T09:05:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-15T06:05:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T11:35:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T10:35:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1750,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "962",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T01:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T00:20:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-21T08:05:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-21T05:05:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "734",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-22T00:30:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-21T21:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T06:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T05:30:00Z",
+            "duration_minutes": 480,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4e7a8a19907f4394855b97a13e1c7168"
+    },
+    {
+      "price": {
+        "amount": 1436.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 860,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "735",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:15:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-15T06:35:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "913",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-15T09:05:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-15T06:05:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T11:35:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T10:35:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 965,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "923",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T14:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T13:25:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-21T20:55:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-21T17:55:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "734",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-22T00:30:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-21T21:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T06:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T05:30:00Z",
+            "duration_minutes": 480,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6e76d2475808408586e5db2b1f9f8663"
+    },
+    {
+      "price": {
+        "amount": 1467.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1705,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "706",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:20:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-14T22:50:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-14T22:50:00Z",
+            "duration_minutes": 390,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "806",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-15T16:30:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-15T16:30:00Z",
+            "arrival_airport": "ABV",
+            "arrival_time_local": "2026-11-15T19:40:00",
+            "arrival_timezone": "Africa/Lagos",
+            "arrival_time_utc": "2026-11-15T18:40:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "806",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABV",
+            "departure_time_local": "2026-11-15T20:30:00",
+            "departure_timezone": "Africa/Lagos",
+            "departure_time_utc": "2026-11-15T19:30:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T21:45:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T20:45:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Cote D'Ivoire",
+        "duration_minutes": 860,
+        "segments": [
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T09:00:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T08:00:00Z",
+            "arrival_airport": "ABV",
+            "arrival_time_local": "2026-11-21T10:15:00",
+            "arrival_timezone": "Africa/Lagos",
+            "arrival_time_utc": "2026-11-21T09:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABV",
+            "departure_time_local": "2026-11-21T11:05:00",
+            "departure_timezone": "Africa/Lagos",
+            "departure_time_utc": "2026-11-21T10:05:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-21T12:15:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-21T12:15:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "176",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-21T15:40:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-21T15:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T23:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T22:20:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330-900neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "3736a36a9f77422a88404ec5f79cb63e"
+    },
+    {
+      "price": {
+        "amount": 1553.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Cote D'Ivoire",
+        "duration_minutes": 745,
+        "segments": [
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "177",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T07:00:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-14T13:40:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-14T13:40:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330-900neo"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "802",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-14T15:10:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-14T15:10:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-14T18:50:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T17:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "802",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-14T19:40:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-14T18:40:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-14T20:25:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T19:25:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Cote D'Ivoire",
+        "duration_minutes": 860,
+        "segments": [
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T09:00:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T08:00:00Z",
+            "arrival_airport": "ABV",
+            "arrival_time_local": "2026-11-21T10:15:00",
+            "arrival_timezone": "Africa/Lagos",
+            "arrival_time_utc": "2026-11-21T09:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "807",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABV",
+            "departure_time_local": "2026-11-21T11:05:00",
+            "departure_timezone": "Africa/Lagos",
+            "departure_time_utc": "2026-11-21T10:05:00Z",
+            "arrival_airport": "ABJ",
+            "arrival_time_local": "2026-11-21T12:15:00",
+            "arrival_timezone": "Africa/Abidjan",
+            "arrival_time_utc": "2026-11-21T12:15:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "HF",
+            "flight_number": "176",
+            "operating_carrier_name": "Air Cote D'Ivoire",
+            "departure_airport": "ABJ",
+            "departure_time_local": "2026-11-21T15:40:00",
+            "departure_timezone": "Africa/Abidjan",
+            "departure_time_utc": "2026-11-21T15:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-21T23:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-21T22:20:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330-900neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "30512a93b7664dd985a708546bacda5e"
+    },
+    {
+      "price": {
+        "amount": 1572.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 740,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "2608",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-11-14T09:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-11-14T08:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-14T10:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-14T09:10:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-14T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-14T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-14T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 775,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3633",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T08:15:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T07:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "6755030f3db742f7824d92a5fdca805c"
+    },
+    {
+      "price": {
+        "amount": 1628.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 740,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "2608",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-11-14T09:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-11-14T08:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-14T10:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-14T09:10:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-14T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-14T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-14T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 670,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T20:20:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T19:20:00Z",
+            "arrival_airport": "NSI",
+            "arrival_time_local": "2026-11-21T21:05:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-21T20:05:00Z",
+            "duration_minutes": 45,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "NSI",
+            "departure_time_local": "2026-11-21T22:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T21:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:05:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:05:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "a780c5ddb30642dda0a2e1b06e667620"
+    },
+    {
+      "price": {
+        "amount": 1865.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1635,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "735",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:15:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-15T06:35:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "963",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-15T21:45:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-15T18:45:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-16T00:30:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T23:30:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1130,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "923",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T14:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T13:25:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-21T20:55:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-21T17:55:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "730",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-22T01:30:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-21T22:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-11-22T06:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-11-22T05:05:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-11-22T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-11-22T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b61fc17a3cc94e009c2a84991329ea92"
+    },
+    {
+      "price": {
+        "amount": 1922.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 860,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "735",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:15:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-15T06:35:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "913",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-15T09:05:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-15T06:05:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-15T11:35:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-15T10:35:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Ethiopian",
+        "duration_minutes": 1130,
+        "segments": [
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "923",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T14:25:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T13:25:00Z",
+            "arrival_airport": "ADD",
+            "arrival_time_local": "2026-11-21T20:55:00",
+            "arrival_timezone": "Africa/Addis_Ababa",
+            "arrival_time_utc": "2026-11-21T17:55:00Z",
+            "duration_minutes": 270,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "ET",
+            "flight_number": "730",
+            "operating_carrier_name": "Ethiopian",
+            "departure_airport": "ADD",
+            "departure_time_local": "2026-11-22T01:30:00",
+            "departure_timezone": "Africa/Addis_Ababa",
+            "departure_time_utc": "2026-11-21T22:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-11-22T06:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-11-22T05:05:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-11-22T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-11-22T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4c05f854982049efa241e7387ec6ce2f"
+    },
+    {
+      "price": {
+        "amount": 4368.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 740,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-11-14T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "2608",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-11-14T09:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-11-14T08:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-14T10:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-14T09:10:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "379",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-14T12:00:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-14T11:00:00Z",
+            "arrival_airport": "DLA",
+            "arrival_time_local": "2026-11-14T19:00:00",
+            "arrival_timezone": "Africa/Douala",
+            "arrival_time_utc": "2026-11-14T18:00:00Z",
+            "duration_minutes": 420,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "ASKY",
+        "duration_minutes": 1250,
+        "segments": [
+          {
+            "marketing_carrier_code": "KP",
+            "flight_number": "35",
+            "operating_carrier_name": "ASKY",
+            "departure_airport": "DLA",
+            "departure_time_local": "2026-11-21T10:40:00",
+            "departure_timezone": "Africa/Douala",
+            "departure_time_utc": "2026-11-21T09:40:00Z",
+            "arrival_airport": "LFW",
+            "arrival_time_local": "2026-11-21T11:25:00",
+            "arrival_timezone": "Africa/Lome",
+            "arrival_time_utc": "2026-11-21T11:25:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "251",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "LFW",
+            "departure_time_local": "2026-11-21T21:20:00",
+            "departure_timezone": "Africa/Lome",
+            "departure_time_utc": "2026-11-21T21:20:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-11-22T05:00:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-11-22T04:00:00Z",
+            "duration_minutes": 400,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-11-22T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-11-22T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-11-22T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-11-22T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "fb51807f227d4b638cac736aee9a3870"
+    }
+  ],
+  "observed_at": "2026-10-24T21:37:13.876608Z"
+}

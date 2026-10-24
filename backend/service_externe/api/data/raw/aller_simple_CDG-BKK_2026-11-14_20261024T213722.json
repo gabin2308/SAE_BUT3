@@ -1,0 +1,530 @@
+{
+  "origin": "CDG",
+  "destination": "BKK",
+  "departure_date": "2026-11-14",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 467.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Gulf Air",
+        "duration_minutes": 990,
+        "segments": [
+          {
+            "marketing_carrier_code": "GF",
+            "flight_number": "18",
+            "operating_carrier_name": "Gulf Air",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T10:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T09:50:00Z",
+            "arrival_airport": "BAH",
+            "arrival_time_local": "2026-11-14T19:25:00",
+            "arrival_timezone": "Asia/Bahrain",
+            "arrival_time_utc": "2026-11-14T16:25:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "GF",
+            "flight_number": "152",
+            "operating_carrier_name": "Gulf Air",
+            "departure_airport": "BAH",
+            "departure_time_local": "2026-11-14T22:45:00",
+            "departure_timezone": "Asia/Bahrain",
+            "departure_time_utc": "2026-11-14T19:45:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T09:20:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T02:20:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d809deba8a914ebd9d9d3bbf60548e85"
+    },
+    {
+      "price": {
+        "amount": 569.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "China Southern",
+        "duration_minutes": 1050,
+        "segments": [
+          {
+            "marketing_carrier_code": "CZ",
+            "flight_number": "348",
+            "operating_carrier_name": "China Southern",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T10:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T09:40:00Z",
+            "arrival_airport": "CAN",
+            "arrival_time_local": "2026-11-15T05:25:00",
+            "arrival_timezone": "Asia/Shanghai",
+            "arrival_time_utc": "2026-11-14T21:25:00Z",
+            "duration_minutes": 705,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "CZ",
+            "flight_number": "357",
+            "operating_carrier_name": "China Southern",
+            "departure_airport": "CAN",
+            "departure_time_local": "2026-11-15T08:05:00",
+            "departure_timezone": "Asia/Shanghai",
+            "departure_time_utc": "2026-11-15T00:05:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T10:10:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T03:10:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f20a7756c2a64c57a831f2305bca6b23"
+    },
+    {
+      "price": {
+        "amount": 576.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 1955,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-11-15T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-11-15T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "UL",
+            "flight_number": "218",
+            "operating_carrier_name": "SriLankan",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-11-15T22:40:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-11-15T19:40:00Z",
+            "arrival_airport": "CMB",
+            "arrival_time_local": "2026-11-16T05:50:00",
+            "arrival_timezone": "Asia/Colombo",
+            "arrival_time_utc": "2026-11-16T00:20:00Z",
+            "duration_minutes": 280,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "UL",
+            "flight_number": "404",
+            "operating_carrier_name": "SriLankan",
+            "departure_airport": "CMB",
+            "departure_time_local": "2026-11-16T07:30:00",
+            "departure_timezone": "Asia/Colombo",
+            "departure_time_utc": "2026-11-16T02:00:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-16T12:35:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-16T05:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "5415706da1ec47469c3e805224b8a10c"
+    },
+    {
+      "price": {
+        "amount": 615.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 890,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-11-15T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-11-15T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "832",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-11-15T08:20:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-11-15T05:20:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T18:50:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T11:50:00Z",
+            "duration_minutes": 390,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9953c2144cfa4604bf658233aa033f41"
+    },
+    {
+      "price": {
+        "amount": 615.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 950,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "40",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T14:15:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-11-14T23:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-11-14T20:35:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "836",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-11-15T02:35:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-11-14T23:35:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T13:05:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T06:05:00Z",
+            "duration_minutes": 390,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "250573502b854e9b845293648de832e6"
+    },
+    {
+      "price": {
+        "amount": 632.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Cathay Pacific",
+        "duration_minutes": 1020,
+        "segments": [
+          {
+            "marketing_carrier_code": "CX",
+            "flight_number": "260",
+            "operating_carrier_name": "Cathay Pacific",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:35:00Z",
+            "arrival_airport": "HKG",
+            "arrival_time_local": "2026-11-15T06:40:00",
+            "arrival_timezone": "Asia/Hong_Kong",
+            "arrival_time_utc": "2026-11-14T22:40:00Z",
+            "duration_minutes": 725,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "CX",
+            "flight_number": "705",
+            "operating_carrier_name": "Cathay Pacific",
+            "departure_airport": "HKG",
+            "departure_time_local": "2026-11-15T08:30:00",
+            "departure_timezone": "Asia/Hong_Kong",
+            "departure_time_utc": "2026-11-15T00:30:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T10:35:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T03:35:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a032918a255747ea91029c98e4b3e966"
+    },
+    {
+      "price": {
+        "amount": 650.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Finnair",
+        "duration_minutes": 935,
+        "segments": [
+          {
+            "marketing_carrier_code": "AY",
+            "flight_number": "1578",
+            "operating_carrier_name": "Finnair",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T19:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T18:00:00Z",
+            "arrival_airport": "HEL",
+            "arrival_time_local": "2026-11-14T22:55:00",
+            "arrival_timezone": "Europe/Helsinki",
+            "arrival_time_utc": "2026-11-14T20:55:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Embraer 190"
+          },
+          {
+            "marketing_carrier_code": "AY",
+            "flight_number": "145",
+            "operating_carrier_name": "Finnair",
+            "departure_airport": "HEL",
+            "departure_time_local": "2026-11-15T00:15:00",
+            "departure_timezone": "Europe/Helsinki",
+            "departure_time_utc": "2026-11-14T22:15:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T16:35:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T09:35:00Z",
+            "duration_minutes": 680,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fef534409bf24e688accbaf29e41ad1e"
+    },
+    {
+      "price": {
+        "amount": 668.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 870,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2233",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T18:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T17:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-11-14T19:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-11-14T18:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "772",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-11-14T22:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-11-14T21:10:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T14:50:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T07:50:00Z",
+            "duration_minutes": 640,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "94df7b838b2c4337ba62ead9f83a041e"
+    },
+    {
+      "price": {
+        "amount": 769.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "THAI",
+        "duration_minutes": 670,
+        "segments": [
+          {
+            "marketing_carrier_code": "TG",
+            "flight_number": "931",
+            "operating_carrier_name": "THAI",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T11:30:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T05:40:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-14T22:40:00Z",
+            "duration_minutes": 670,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "272fb9ecd1e94ae4b46a121f7e30b63e"
+    },
+    {
+      "price": {
+        "amount": 1146.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 800,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "368",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-11-14T22:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-11-14T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "7",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-11-14T23:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-11-14T22:25:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T15:30:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T08:30:00Z",
+            "duration_minutes": 605,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8d3acfe9ebc74aa4945945d8ef641c11"
+    },
+    {
+      "price": {
+        "amount": 1246.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 680,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "134",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T14:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T13:15:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T07:35:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T00:35:00Z",
+            "duration_minutes": 680,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c00169183e47420c9430da8970bc626c"
+    },
+    {
+      "price": {
+        "amount": 1246.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 680,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "198",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T16:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T15:10:00Z",
+            "arrival_airport": "BKK",
+            "arrival_time_local": "2026-11-15T09:30:00",
+            "arrival_timezone": "Asia/Bangkok",
+            "arrival_time_utc": "2026-11-15T02:30:00Z",
+            "duration_minutes": 680,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a4842398c2f24019bf76e547a6003bb9"
+    }
+  ],
+  "observed_at": "2026-10-24T21:37:22.904778Z"
+}

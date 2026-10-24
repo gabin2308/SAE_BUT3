@@ -1,0 +1,362 @@
+{
+  "origin": "CDG",
+  "destination": "HND",
+  "departure_date": "2026-11-14",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 794.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "China Southern",
+        "duration_minutes": 1135,
+        "segments": [
+          {
+            "marketing_carrier_code": "CZ",
+            "flight_number": "348",
+            "operating_carrier_name": "China Southern",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T10:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T09:40:00Z",
+            "arrival_airport": "CAN",
+            "arrival_time_local": "2026-11-15T05:25:00",
+            "arrival_timezone": "Asia/Shanghai",
+            "arrival_time_utc": "2026-11-14T21:25:00Z",
+            "duration_minutes": 705,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "CZ",
+            "flight_number": "385",
+            "operating_carrier_name": "China Southern",
+            "departure_airport": "CAN",
+            "departure_time_local": "2026-11-15T08:50:00",
+            "departure_timezone": "Asia/Shanghai",
+            "departure_time_utc": "2026-11-15T00:50:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T13:35:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T04:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6f9239be7cf646518c7d93c040fc07d4"
+    },
+    {
+      "price": {
+        "amount": 814.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 1015,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-11-15T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-11-15T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "812",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-11-15T07:25:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-11-15T04:25:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T22:55:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T13:55:00Z",
+            "duration_minutes": 570,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4e7339c48f2846428f8fe8d839a46ac1"
+    },
+    {
+      "price": {
+        "amount": 819.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "EVA Air",
+        "duration_minutes": 1500,
+        "segments": [
+          {
+            "marketing_carrier_code": "BR",
+            "flight_number": "88",
+            "operating_carrier_name": "EVA Air",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:20:00Z",
+            "arrival_airport": "TPE",
+            "arrival_time_local": "2026-11-15T07:20:00",
+            "arrival_timezone": "Asia/Taipei",
+            "arrival_time_utc": "2026-11-14T23:20:00Z",
+            "duration_minutes": 780,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "BR",
+            "flight_number": "190",
+            "operating_carrier_name": "EVA Air",
+            "departure_airport": "TSA",
+            "departure_time_local": "2026-11-15T16:30:00",
+            "departure_timezone": "Asia/Taipei",
+            "departure_time_utc": "2026-11-15T08:30:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T20:20:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T11:20:00Z",
+            "duration_minutes": 170,
+            "aircraft": "Boeing 787-10"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b3192156d87741f095363421866bb9fa"
+    },
+    {
+      "price": {
+        "amount": 1112.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Cathay Pacific",
+        "duration_minutes": 1090,
+        "segments": [
+          {
+            "marketing_carrier_code": "CX",
+            "flight_number": "260",
+            "operating_carrier_name": "Cathay Pacific",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T11:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T10:35:00Z",
+            "arrival_airport": "HKG",
+            "arrival_time_local": "2026-11-15T06:40:00",
+            "arrival_timezone": "Asia/Hong_Kong",
+            "arrival_time_utc": "2026-11-14T22:40:00Z",
+            "duration_minutes": 725,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "CX",
+            "flight_number": "548",
+            "operating_carrier_name": "Cathay Pacific",
+            "departure_airport": "HKG",
+            "departure_time_local": "2026-11-15T08:55:00",
+            "departure_timezone": "Asia/Hong_Kong",
+            "departure_time_utc": "2026-11-15T00:55:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T13:45:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T04:45:00Z",
+            "duration_minutes": 230,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f841223ec0bc42c59b4227725f87c3bc"
+    },
+    {
+      "price": {
+        "amount": 1138.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 1020,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "76",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T20:30:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-11-15T07:20:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-11-15T03:20:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "312",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-11-15T08:20:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-11-15T04:20:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T22:30:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T13:30:00Z",
+            "duration_minutes": 550,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7d8204269f8341129661068402b55d59"
+    },
+    {
+      "price": {
+        "amount": 1289.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ANA",
+        "duration_minutes": 810,
+        "segments": [
+          {
+            "marketing_carrier_code": "NH",
+            "flight_number": "216",
+            "operating_carrier_name": "ANA",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T18:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T17:40:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T16:10:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T07:10:00Z",
+            "duration_minutes": 810,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8f48b2ceedbb4ce89be2632f319f8f9a"
+    },
+    {
+      "price": {
+        "amount": 1511.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 780,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "282",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T09:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T08:50:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T06:50:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-14T21:50:00Z",
+            "duration_minutes": 780,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "baeb54e18add472a8be82c12fcaf1089"
+    },
+    {
+      "price": {
+        "amount": 1525.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "JAL",
+        "duration_minutes": 810,
+        "segments": [
+          {
+            "marketing_carrier_code": "JL",
+            "flight_number": "46",
+            "operating_carrier_name": "JAL",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T17:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T16:20:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T14:50:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T05:50:00Z",
+            "duration_minutes": 810,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "44b80af2015848f486494a46d1a1786b"
+    },
+    {
+      "price": {
+        "amount": 1729.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 815,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "274",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-11-14T22:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-11-14T21:20:00Z",
+            "arrival_airport": "HND",
+            "arrival_time_local": "2026-11-15T19:55:00",
+            "arrival_timezone": "Asia/Tokyo",
+            "arrival_time_utc": "2026-11-15T10:55:00Z",
+            "duration_minutes": 815,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e5934ce3eba74797b79bdd3a98f46414"
+    }
+  ],
+  "observed_at": "2026-10-24T21:37:30.649881Z"
+}

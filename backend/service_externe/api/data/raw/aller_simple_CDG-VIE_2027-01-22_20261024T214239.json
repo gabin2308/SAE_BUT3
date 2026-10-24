@@ -1,0 +1,332 @@
+{
+  "origin": "CDG",
+  "destination": "VIE",
+  "departure_date": "2027-01-22",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 99.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "362",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:05:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T11:00:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a3b33ef68d8d4f76b0bcd66b1c21bf83"
+    },
+    {
+      "price": {
+        "amount": 99.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "364",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T17:30:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T16:30:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ea02d6d410df451887393a58559356ed"
+    },
+    {
+      "price": {
+        "amount": 99.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "368",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T22:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "23d0ecaa05f34521891ac74eed7f95ca"
+    },
+    {
+      "price": {
+        "amount": 106.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b68e9446d2a340eabde852cbf01fbaae"
+    },
+    {
+      "price": {
+        "amount": 106.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T21:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8b27a3a3cd0a4fcea9bc5fb63e929feb"
+    },
+    {
+      "price": {
+        "amount": 112.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1905",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T14:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T13:35:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T16:15:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T15:15:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b22b230b4baf48e48c105856ec4f733c"
+    },
+    {
+      "price": {
+        "amount": 116.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f5fadb2c477a450a80221096e1cd3f50"
+    },
+    {
+      "price": {
+        "amount": 123.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Condor",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4303",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T11:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4364",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T14:20:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T13:20:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T14:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "98a61bdca97b4f71b3ebbb8538815dcd"
+    },
+    {
+      "price": {
+        "amount": 123.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Condor",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4305",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:50:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T18:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T17:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "DE",
+            "flight_number": "4360",
+            "operating_carrier_name": "Condor",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T20:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-22T21:30:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-22T20:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "bdc352c856fa4919bb4af56f5401933d"
+    }
+  ],
+  "observed_at": "2026-10-24T21:42:39.569361Z"
+}

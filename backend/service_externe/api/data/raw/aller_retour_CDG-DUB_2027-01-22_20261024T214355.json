@@ -1,0 +1,4360 @@
+{
+  "origin": "CDG",
+  "destination": "DUB",
+  "departure_date": "2027-01-22",
+  "return_date": "2027-01-29",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 137.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d27319cdc71e471f86af5287515389af"
+    },
+    {
+      "price": {
+        "amount": 178.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2d8f162707cd44af82af81a12ae71fa4"
+    },
+    {
+      "price": {
+        "amount": 178.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "0d9e107360c0467ab36d8f572c77f44b"
+    },
+    {
+      "price": {
+        "amount": 185.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 340,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "3dfafb5594ce4fd1a5da3ae995bb9b01"
+    },
+    {
+      "price": {
+        "amount": 185.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 390,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1140",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1141",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T19:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T18:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "1288888115784d10917fa3ea19bc2c42"
+    },
+    {
+      "price": {
+        "amount": 185.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 480,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "be8f8051df734d7796ecb08d7915347b"
+    },
+    {
+      "price": {
+        "amount": 186.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "bfa38ab1184f4575bd3613db4b6b7527"
+    },
+    {
+      "price": {
+        "amount": 186.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2516",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T10:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 805,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "405",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:35:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:35:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T21:50:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T20:50:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "632",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-30T07:25:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-30T06:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:00:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Embraer 195"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "1fb7030be41349068425e634b5f361fb"
+    },
+    {
+      "price": {
+        "amount": 189.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2516",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T10:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 450,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "983",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T05:10:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T05:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T08:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T07:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1046",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T12:25:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T11:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T13:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T12:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "681c6d1de25f4db583a6f7da011fb280"
+    },
+    {
+      "price": {
+        "amount": 189.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2516",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T10:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 495,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "977",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:10:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T12:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T11:10:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "28bca2f34c4345ffa94926c12baa51a8"
+    },
+    {
+      "price": {
+        "amount": 200.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "81eae0358d2747ce90a65c447cefaa60"
+    },
+    {
+      "price": {
+        "amount": 202.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2516",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T10:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 345,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "401",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T12:10:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T12:10:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T15:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T14:20:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2aef4972d03f40479e9f418dd65c878b"
+    },
+    {
+      "price": {
+        "amount": 203.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7b8a4ad091f34eceb65392a1e58658ec"
+    },
+    {
+      "price": {
+        "amount": 205.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2516",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T10:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "981",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T17:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T17:15:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:15:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:15:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "a54f49024221409cbf209b58fec65aab"
+    },
+    {
+      "price": {
+        "amount": 205.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2516",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T10:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 340,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "979",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T11:45:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T11:45:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T14:45:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T13:45:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "90dcfb0644a346d3bbfd896a844d430a"
+    },
+    {
+      "price": {
+        "amount": 211.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1134",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T05:45:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T05:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:25:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1341",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T10:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T09:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T11:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T10:50:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "006a5327fbfd473ab4a2c430601f60d3"
+    },
+    {
+      "price": {
+        "amount": 216.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "afca46c51f91450fa39deb5395006abb"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3134da41a774421ba132a1f51e9784b0"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 340,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "9de4d57e28c0463ab00a166f9b6196c9"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 340,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2461e1040ca24af4ae560dcbc68e4f5b"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 390,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1140",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1141",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T19:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T18:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "1fcda28b074147d8b9f741e8ebd2d479"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 390,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1140",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1141",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T19:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T18:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4a1ec2931c1442cea0d0b9ab2dfd9c35"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 480,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9ce605ce26d9488cb626883ed65166cc"
+    },
+    {
+      "price": {
+        "amount": 226.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 480,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4c278691a63d400eb246a64606dc325a"
+    },
+    {
+      "price": {
+        "amount": 227.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fa5322a251b346aab91f427e375bed54"
+    },
+    {
+      "price": {
+        "amount": 227.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7800e46fc6954f03b9e8ec46ca8bdfcd"
+    },
+    {
+      "price": {
+        "amount": 231.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 265,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "303",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:35:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T11:00:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T11:00:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "826",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T12:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:00:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 235,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "833",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:50:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-29T17:15:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "318",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-29T18:20:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-29T18:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4ee624142153477787a8a3b24cc8b4bb"
+    },
+    {
+      "price": {
+        "amount": 243.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3ec06be962264a7db0b299597684f910"
+    },
+    {
+      "price": {
+        "amount": 244.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f1b9c97b73574384ac8b62a0cba38f7d"
+    },
+    {
+      "price": {
+        "amount": 244.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8319b9ca379d4f16b4f74e553ccc28d6"
+    },
+    {
+      "price": {
+        "amount": 245.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 340,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1136",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T08:50:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T08:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T11:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "e1c4f509c0de4811861edef50694c801"
+    },
+    {
+      "price": {
+        "amount": 245.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 390,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1140",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1141",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T19:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T18:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "ac02207f84d64d7486712d8e3ac4d7c8"
+    },
+    {
+      "price": {
+        "amount": 248.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 265,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "303",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:35:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T11:00:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T11:00:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "826",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T12:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:00:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 230,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "835",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:25:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-29T19:45:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "322",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-29T21:00:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-29T21:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T23:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T22:15:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b93cfebe0bcd4f89ae11fe0e30ab3f7f"
+    },
+    {
+      "price": {
+        "amount": 250.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ba4194a6d7fb4db39c8959c57e738cde"
+    },
+    {
+      "price": {
+        "amount": 261.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "91f049685b5d4d8095e57c81c4ca3d8e"
+    },
+    {
+      "price": {
+        "amount": 261.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8e9b50b2530143eda366b9cf787598dd"
+    },
+    {
+      "price": {
+        "amount": 266.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a5df219d813349bfb306c61e1fcd9f85"
+    },
+    {
+      "price": {
+        "amount": 266.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8e81c7518beb4563be161f8e6f749d80"
+    },
+    {
+      "price": {
+        "amount": 266.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "afeccd72f71341a6b48e20e7e9a31cc0"
+    },
+    {
+      "price": {
+        "amount": 267.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "303d88cfb51940b5877505564141bc5d"
+    },
+    {
+      "price": {
+        "amount": 268.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2fc6032015f24a55983810665804f97f"
+    },
+    {
+      "price": {
+        "amount": 268.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "daba5a8f34d34a5d92a2c50d5591af0c"
+    },
+    {
+      "price": {
+        "amount": 280.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6e4784a128c14c1ebe82673c44363584"
+    },
+    {
+      "price": {
+        "amount": 285.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "548035cd6ced4bc09ed2947f0cb622ad"
+    },
+    {
+      "price": {
+        "amount": 285.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "63f9e3b266f04f54957084c8af83c823"
+    },
+    {
+      "price": {
+        "amount": 289.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "583d80fe20034fa48fa063ba343200e3"
+    },
+    {
+      "price": {
+        "amount": 295.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "528",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T18:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T19:45:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "12496e5a45ae40c597a579f3144cee03"
+    },
+    {
+      "price": {
+        "amount": 298.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 265,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "303",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:35:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T11:00:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T11:00:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "826",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T12:30:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:00:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 705,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "839",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T20:35:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T20:35:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-29T21:55:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "302",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-30T06:55:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-30T06:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "825a14eb46a340f89d53bde0ea489b0e"
+    },
+    {
+      "price": {
+        "amount": 306.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1141",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:40:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T16:20:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T16:20:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "577190a55a4545efb7ba07289fd6bc27"
+    },
+    {
+      "price": {
+        "amount": 307.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1017",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:00:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "793398b5cc0e45a4ad5f66679902f0f8"
+    },
+    {
+      "price": {
+        "amount": 310.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fb9aab5a73214a4aa0b26c275dacb27f"
+    },
+    {
+      "price": {
+        "amount": 313.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "127ec0b1d92e42ec97c1a8bba707d8a7"
+    },
+    {
+      "price": {
+        "amount": 313.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b32364d3cc3344e4bc588f0caca5926e"
+    },
+    {
+      "price": {
+        "amount": 318.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e46855d6813348a9883805978091cc9f"
+    },
+    {
+      "price": {
+        "amount": 318.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "19ae9145e6fa40dcaa7ca30bd4811734"
+    },
+    {
+      "price": {
+        "amount": 332.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "57fd8c3a236644568f23f3b1a1584d74"
+    },
+    {
+      "price": {
+        "amount": 334.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4ec37c33f6e94992849696573748316a"
+    },
+    {
+      "price": {
+        "amount": 334.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7acdb34d3c3f43068d9173c3900f94b3"
+    },
+    {
+      "price": {
+        "amount": 344.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "520",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2cc97e5408a54f4388c81c30c2ca93bd"
+    },
+    {
+      "price": {
+        "amount": 352.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "06ff829c0cdd4a1da73642c7bd6a4279"
+    },
+    {
+      "price": {
+        "amount": 352.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5be500e78f424ca1931839ddd75cbd66"
+    },
+    {
+      "price": {
+        "amount": 352.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e2667d202cae4b84b8ef8800221c9294"
+    },
+    {
+      "price": {
+        "amount": 352.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "31e1bc296a9149a39c4e026580cbc31b"
+    },
+    {
+      "price": {
+        "amount": 357.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1016",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:55:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "11a70535f5da4c12aeb19c0b83809062"
+    },
+    {
+      "price": {
+        "amount": 357.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1716",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:10:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T09:00:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T09:00:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a7fdec79e4c741d5ba1b2a0e01d09ffd"
+    },
+    {
+      "price": {
+        "amount": 361.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "526",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T13:15:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T13:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:05:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "effeba4ee98f407f9bcb0d29e40e309f"
+    },
+    {
+      "price": {
+        "amount": 364.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "521",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T11:05:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T11:05:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c4a0f6fa8c114bb7a21f28b61f8db06b"
+    },
+    {
+      "price": {
+        "amount": 370.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8b4e6299c8954582bf64fd9776bc1549"
+    },
+    {
+      "price": {
+        "amount": 375.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1717",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e35203437593414b8af8dcd92308c34a"
+    },
+    {
+      "price": {
+        "amount": 384.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1116",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:40:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:30:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:30:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "524",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T09:55:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T09:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:45:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8da7ec68881747629b94d5bcf328d296"
+    },
+    {
+      "price": {
+        "amount": 406.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "525",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T14:15:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T14:15:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f01e84fa91554cc18b6b694b555d90b2"
+    },
+    {
+      "price": {
+        "amount": 406.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 110,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "527",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T17:35:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T17:35:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3122f8ef485e49009f0fcc3958bf9676"
+    },
+    {
+      "price": {
+        "amount": 428.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aer Lingus",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "EI",
+            "flight_number": "529",
+            "operating_carrier_name": "Aer Lingus",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T21:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T20:25:00Z",
+            "arrival_airport": "DUB",
+            "arrival_time_local": "2027-01-22T22:10:00",
+            "arrival_timezone": "Europe/Dublin",
+            "arrival_time_utc": "2027-01-22T22:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 105,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1117",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "DUB",
+            "departure_time_local": "2027-01-29T15:25:00",
+            "departure_timezone": "Europe/Dublin",
+            "departure_time_utc": "2027-01-29T15:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4cc6ddaff66b4ba79fb4beaeab2c3cc5"
+    }
+  ],
+  "observed_at": "2026-10-24T21:43:55.001796Z"
+}

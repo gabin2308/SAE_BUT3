@@ -1,0 +1,2951 @@
+{
+  "origin": "CDG",
+  "destination": "ATH",
+  "departure_date": "2027-01-22",
+  "return_date": "2027-01-29",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 194.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "901",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:05:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T18:15:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T16:15:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "900",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T10:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T08:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T13:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T12:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "73608cb2cd024a67a5e695a73ac2b94d"
+    },
+    {
+      "price": {
+        "amount": 229.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "243",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:30:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-22T21:55:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "536",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-23T00:50:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-22T23:50:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T03:25:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-23T01:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 1780,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "537",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T04:30:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T02:30:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-29T05:10:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-29T04:10:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Embraer 190"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "240",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-30T06:30:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-30T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:10:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "cd883b4a883949f387ee8ef153e55933"
+    },
+    {
+      "price": {
+        "amount": 229.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "243",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:30:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-22T21:55:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "536",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-23T00:50:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-22T23:50:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T03:25:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-23T01:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 1795,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "533",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T15:50:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T13:50:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-29T16:30:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-29T15:30:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "242",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-30T18:05:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-30T17:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T20:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T19:45:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "aa05b736d4904ab182b62d361d329fda"
+    },
+    {
+      "price": {
+        "amount": 234.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "243",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:30:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-22T21:55:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "536",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-23T00:50:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-22T23:50:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T03:25:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-23T01:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 340,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "537",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T04:30:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T02:30:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-29T05:10:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-29T04:10:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Embraer 190"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "240",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-29T06:30:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-29T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:10:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f0382299d6774f93819cd84197bb725b"
+    },
+    {
+      "price": {
+        "amount": 234.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "243",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:30:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-22T22:55:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-22T21:55:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A319"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "536",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-23T00:50:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-22T23:50:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T03:25:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-23T01:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Embraer 190"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air Serbia",
+        "duration_minutes": 1100,
+        "segments": [
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "533",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T15:50:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T13:50:00Z",
+            "arrival_airport": "BEG",
+            "arrival_time_local": "2027-01-29T16:30:00",
+            "arrival_timezone": "Europe/Belgrade",
+            "arrival_time_utc": "2027-01-29T15:30:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "JU",
+            "flight_number": "240",
+            "operating_carrier_name": "Air Serbia",
+            "departure_airport": "BEG",
+            "departure_time_local": "2027-01-30T06:30:00",
+            "departure_timezone": "Europe/Belgrade",
+            "departure_time_utc": "2027-01-30T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T09:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T08:10:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d5a0243cb390455981ba52d2ca2c9274"
+    },
+    {
+      "price": {
+        "amount": 235.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "901",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:05:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T18:15:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T16:15:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "904",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T19:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T17:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T21:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T20:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "da76cd95970c4e5cb511d4fb815634ef"
+    },
+    {
+      "price": {
+        "amount": 237.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 455,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1340",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T09:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T08:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1955",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:25:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:35:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:35:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 620,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1952",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:10:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:40:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "88c32736df584f19ae355338e5517159"
+    },
+    {
+      "price": {
+        "amount": 248.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1830",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T09:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T08:15:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 335,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1839",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:40:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e29186a6c4a7488b8769fafd1f916b35"
+    },
+    {
+      "price": {
+        "amount": 248.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1830",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T09:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T08:15:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 360,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1831",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T13:55:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T11:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:00:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:00:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c505b606da39493ca676be2b5d27e256"
+    },
+    {
+      "price": {
+        "amount": 248.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1838",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T13:10:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T12:10:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 335,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1839",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:40:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "94bd4b7f2125442ca72554fb6a94a542"
+    },
+    {
+      "price": {
+        "amount": 248.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1838",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T13:10:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T12:10:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 360,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1831",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T13:55:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T11:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:00:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:00:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e6ae187df4e04eb38bcf5c00748fd081"
+    },
+    {
+      "price": {
+        "amount": 248.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1830",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T09:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T08:15:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 485,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1843",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T07:05:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T05:05:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 170,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "638",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T12:50:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "046a6ce4c7b04179ad3fbde20f945ef6"
+    },
+    {
+      "price": {
+        "amount": 251.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "905",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T02:45:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-23T00:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "900",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T10:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T08:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T13:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T12:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fd137d1dd49f401ca0aae774970f8711"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 335,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1839",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:40:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "11b38e05068747538c6eb84f21f4adad"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 360,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1831",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T13:55:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T11:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:00:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:00:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "fd03a84b355749faaef7817775dd2459"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 485,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1843",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T07:05:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T05:05:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T08:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T07:55:00Z",
+            "duration_minutes": 170,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "638",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T12:50:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "7bfcb49312044edaaa56d3695531b3a4"
+    },
+    {
+      "price": {
+        "amount": 254.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1830",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T09:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T08:15:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 715,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1757",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:40:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T08:15:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T07:15:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "665f0c855aa74314a4d08203602ed240"
+    },
+    {
+      "price": {
+        "amount": 256.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1838",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T13:10:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T12:10:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 605,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "802",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T13:25:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T11:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2027-01-29T14:45:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2027-01-29T13:45:00Z",
+            "duration_minutes": 140,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2027-01-29T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2027-01-29T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "080bfa6e2a164f01bcd3456cef854ba1"
+    },
+    {
+      "price": {
+        "amount": 263.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1830",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T09:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T08:15:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1283",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:20:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:20:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T19:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T18:20:00Z",
+            "duration_minutes": 180,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b9f64c0bec634cd09deb6edd8844a7c6"
+    },
+    {
+      "price": {
+        "amount": 263.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1838",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T13:10:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T12:10:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1283",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:20:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:20:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T19:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T18:20:00Z",
+            "duration_minutes": 180,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "660ab9a118414e0da49f320393f58d07"
+    },
+    {
+      "price": {
+        "amount": 269.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1283",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:20:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:20:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T19:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T18:20:00Z",
+            "duration_minutes": 180,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "8bdd05389a4245098fa89b01b6e0590c"
+    },
+    {
+      "price": {
+        "amount": 270.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 280,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1830",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T09:15:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T08:15:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:55:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 335,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1757",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:40:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T08:15:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T07:15:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2228",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T09:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T08:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T11:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T10:15:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "8d6b28fff6204e33984abcec28128c40"
+    },
+    {
+      "price": {
+        "amount": 270.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-22T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-22T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1838",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-22T13:10:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-22T12:10:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:50:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 335,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1757",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:40:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T08:15:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T07:15:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2228",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T09:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T08:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T11:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T10:15:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "33215659353a4872ab8c4272cd25ca31"
+    },
+    {
+      "price": {
+        "amount": 275.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 455,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1340",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T09:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T08:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1955",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:25:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:35:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:35:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 400,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1952",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:10:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:40:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1341",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T10:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T09:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T11:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T10:50:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2e67d445057b4c2aa576e0b95b111539"
+    },
+    {
+      "price": {
+        "amount": 276.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 335,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1757",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:40:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-29T08:15:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T07:15:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2228",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-29T09:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T08:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T11:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T10:15:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "60681261318548ada29cca4ba9c93394"
+    },
+    {
+      "price": {
+        "amount": 277.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "611",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:40:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T15:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T13:50:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "610",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T08:05:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T06:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:40:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d7e4d15a1d7240f7a7bc7d5142082f91"
+    },
+    {
+      "price": {
+        "amount": 283.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 200,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1532",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:20:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T11:40:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 620,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1952",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:10:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:40:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "0e693f21594d42a1b38ffddd52443311"
+    },
+    {
+      "price": {
+        "amount": 289.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "611",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:40:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T15:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T13:50:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1283",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:20:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:20:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T19:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T18:20:00Z",
+            "duration_minutes": 180,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "90783cfa446b4bfeba74ecbb8cb9b4da"
+    },
+    {
+      "price": {
+        "amount": 292.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "905",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T22:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T21:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T02:45:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-23T00:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "SKY express",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "GQ",
+            "flight_number": "904",
+            "operating_carrier_name": "SKY express",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T19:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T17:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T21:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T20:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e41576f4cd914d0b9a88ce82ef65fbe1"
+    },
+    {
+      "price": {
+        "amount": 300.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 200,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1532",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:20:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T11:40:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 760,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1952",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:10:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:40:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1409",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T16:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T15:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:50:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1e9646caa9794a1a86bd4d54c6d6a7a5"
+    },
+    {
+      "price": {
+        "amount": 300.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 200,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1532",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:20:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T11:40:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 940,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1956",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:30:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T20:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T19:05:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1401",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-30T06:55:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-30T05:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T08:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T07:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5c8e9fc2ff8b4a028d0fa20bb9892c45"
+    },
+    {
+      "price": {
+        "amount": 307.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 190,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "611",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:40:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T15:50:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T13:50:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "614",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "67194a1369374c2da274e615589f8561"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 200,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1532",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:20:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T11:40:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 400,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1952",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:10:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:40:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1341",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T10:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T09:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T11:50:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T10:50:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "edd4be0d41b14983bf639c450b706fd0"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 200,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1532",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:20:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T11:40:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 510,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1952",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T06:10:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T04:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T08:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T07:40:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1407",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T12:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T11:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T13:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T12:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a82e89d269c5482da1d5fafda5fb81bd"
+    },
+    {
+      "price": {
+        "amount": 336.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 185,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "615",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T00:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T22:40:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "610",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T08:05:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T06:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:40:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d5196e0ff0ef4d168d0f4dfaf07eca4d"
+    },
+    {
+      "price": {
+        "amount": 348.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 185,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "615",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T00:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T22:40:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1283",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:20:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:20:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T19:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T18:20:00Z",
+            "duration_minutes": 180,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8f06030d37ae4ceaaf90cdd943aa64fb"
+    },
+    {
+      "price": {
+        "amount": 361.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "610",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T08:05:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T06:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:40:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "76b87667d57b4c89b1138791448172e7"
+    },
+    {
+      "price": {
+        "amount": 366.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 185,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "615",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-23T00:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T22:40:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "614",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "71f9e779a50748e4b8742d5d06aac8e8"
+    },
+    {
+      "price": {
+        "amount": 391.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 305,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2027-01-22T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1752",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2027-01-22T08:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T07:35:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T10:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "614",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T17:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "9dce2fd8f2474edf8062b7232925fb4e"
+    },
+    {
+      "price": {
+        "amount": 438.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 455,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1340",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T09:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T08:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1955",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T12:25:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T11:25:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T16:35:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T14:35:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1533",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T14:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T12:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:10:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "c10d2660cc0b4c7c9f1c5c80dd391d49"
+    },
+    {
+      "price": {
+        "amount": 484.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 200,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1532",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:20:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:20:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-22T13:40:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-22T11:40:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1533",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T14:40:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T12:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:10:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e053570284e041f68298e3bd09e6bb73"
+    }
+  ],
+  "observed_at": "2026-10-24T21:43:18.139256Z"
+}

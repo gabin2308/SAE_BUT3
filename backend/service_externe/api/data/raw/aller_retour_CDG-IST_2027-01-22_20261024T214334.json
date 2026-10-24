@@ -1,0 +1,3655 @@
+{
+  "origin": "CDG",
+  "destination": "IST",
+  "departure_date": "2027-01-22",
+  "return_date": "2027-01-29",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 238.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 380,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1047",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:25:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T14:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1304",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T17:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T16:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T22:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1301",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T16:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:10:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7c1db434796d430c9ff3b2b6bb62866a"
+    },
+    {
+      "price": {
+        "amount": 238.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 380,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1047",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:25:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T14:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1304",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T17:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T16:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T22:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1305",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T06:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T03:30:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T07:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:35:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1044",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T09:05:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T08:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f2dc2a07ab0148a7992bb02d854a0d65"
+    },
+    {
+      "price": {
+        "amount": 238.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 570,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1300",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T13:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T12:00:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:10:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1301",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T19:05:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T16:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T20:10:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T19:10:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1050",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T21:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T20:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d6ce4a1f66bb4f1db469d938d2cd4b01"
+    },
+    {
+      "price": {
+        "amount": 238.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 570,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1300",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T13:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T12:00:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:10:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1305",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T06:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T03:30:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T07:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:35:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1044",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T09:05:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T08:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T10:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T09:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b8e898c3e162404d9c471948c534f1df"
+    },
+    {
+      "price": {
+        "amount": 238.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 380,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1047",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:25:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T14:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1304",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T17:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T16:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T22:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 835,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1305",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T06:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T03:30:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T07:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:35:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "39ae19fad3aa4e46b6f0b4894cf449fe"
+    },
+    {
+      "price": {
+        "amount": 238.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 570,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1300",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T13:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T12:00:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:10:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 835,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1305",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T06:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T03:30:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-29T07:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-29T06:35:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "1048",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-29T17:10:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-29T16:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "9f516488e8f842b3b7aedc552b5cbdef"
+    },
+    {
+      "price": {
+        "amount": 245.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 415,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1340",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T09:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T08:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1959",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1391",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:15:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:00:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "5a0edb96af724fd997b29ca456ff47ac"
+    },
+    {
+      "price": {
+        "amount": 247.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1402",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:05:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T10:30:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1959",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1391",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:15:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:00:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "3d86e3aef9d24a25899075815755b531"
+    },
+    {
+      "price": {
+        "amount": 249.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1390",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:25:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T17:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T14:55:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1391",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:15:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:00:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2fad48b5abea4f39a4f1adf86d329def"
+    },
+    {
+      "price": {
+        "amount": 263.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 415,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1340",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T09:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T08:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1959",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1960",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "14a4a1034e0b4a20ade6b31cd869f27c"
+    },
+    {
+      "price": {
+        "amount": 263.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 415,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1340",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T08:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T07:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T09:25:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T08:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1959",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 970,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1960",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1401",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-30T06:55:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-30T05:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T08:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T07:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "c70cfe2308b3464bb27b18b72c374a0a"
+    },
+    {
+      "price": {
+        "amount": 265.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1402",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:05:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T10:30:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1959",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1960",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "e1e5c3ae463d457397a9c58ba75bc6ad"
+    },
+    {
+      "price": {
+        "amount": 265.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1402",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T09:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T08:05:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T10:30:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Embraer 195 E2"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1959",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T11:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T10:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:55:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 970,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1960",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1401",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-30T06:55:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-30T05:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T08:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T07:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7aadd8ac04c1414dbfa67ba6cbb9a19e"
+    },
+    {
+      "price": {
+        "amount": 268.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1390",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:25:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T17:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T14:55:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 355,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1960",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-29T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-29T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "09480bde48a641e696f3af57a3072979"
+    },
+    {
+      "price": {
+        "amount": 268.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1390",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:25:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T17:55:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T14:55:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 970,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1960",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T18:00:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T15:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-29T19:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-29T18:35:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1401",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-30T06:55:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-30T05:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T08:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T07:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Embraer 195 E2"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e6e315a5dd3b4d009a1819f26475d0b6"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1822",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:45:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1823",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T10:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T07:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:15:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f68894266c354815a9795d016cdb5865"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1822",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:45:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1e3f22c392854603877d77c8b7140548"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1822",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:45:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1827",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T15:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T12:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:15:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "48d6df3c32cd4132bec04ae6f1415076"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1822",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:45:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1833",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5904e80711ab4f03a7a3276fdbcb2faa"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1826",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T21:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1823",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T10:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T07:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:15:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4c4b7959cdc54a0a8b1528f7cbff9871"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1823",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T10:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T07:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:15:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c8e04feea967406aa6aa39b5a1890897"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1826",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T21:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e70294e86c754661929ae9e8124eca0b"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1826",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T21:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1827",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T15:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T12:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:15:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "54129a5913d14cacb5d028ef39b362a6"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1826",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T21:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1833",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ecccda0ab44c4608a4811af26520a696"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1830",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T12:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1823",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T10:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T07:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:15:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7f6fd11866db49f4b4d836c767869948"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f4488dbbae41416aa195bae2195259e2"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1827",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T15:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T12:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:15:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "bc17f8e2ffdd4b7c92cc1ad266396789"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1833",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7a9359c4904047b796dfcacfdb34506b"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1830",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T12:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d4931b7a5c0a479d8fc44f252ff8fcfe"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1830",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T12:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1827",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T15:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T12:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:15:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "48b475fce2a9444d99a07cc9458fe55a"
+    },
+    {
+      "price": {
+        "amount": 315.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1830",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T12:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1833",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d9c8bc550645465899457ee8a3104772"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1822",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:45:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1821",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6b179df339184b6db6d86b0d1ec9870c"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 210,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1822",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:15:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T16:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T13:45:00Z",
+            "duration_minutes": 210,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1829",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T20:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T17:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9b48223c8aaf4a13bcd585162186027c"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1826",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T21:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1821",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "dc0e3d57fb724e9792178d83b0653d49"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1834",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T23:15:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T20:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1823",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T10:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T07:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:15:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "1ae882b6c79742d181fb6b08c8ac1ead"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1821",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "13cb15df13424e248056e19bb0aba586"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1826",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T21:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T18:10:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1829",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T20:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T17:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "28411771d803436dbd5400fad5693f5e"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1834",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T23:15:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T20:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2602506f688643fc988180d97d7b5633"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1834",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T23:15:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T20:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1827",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T15:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T12:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:15:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a643150e5e8b4cab84f5ddad837c7ab8"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1834",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T23:15:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T20:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1833",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "82d389faf97842ae8aa98d44b89e6bc0"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1830",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T12:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1821",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f6da09c95f9b469d9bc9f00a764b919a"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1829",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T20:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T17:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "93b7ae644ca342e48b82d8f3352f5a6e"
+    },
+    {
+      "price": {
+        "amount": 320.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1830",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T12:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T09:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1829",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T20:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T17:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f48a0a7a9acf42a19e4e813bd3b27671"
+    },
+    {
+      "price": {
+        "amount": 326.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1834",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T23:15:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T20:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1821",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "36221022ff1c4659a276e1aa81b5c406"
+    },
+    {
+      "price": {
+        "amount": 326.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1834",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T17:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T16:40:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T23:15:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T20:15:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1829",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T20:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T17:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f61da82fcbe24fa086a4779bfcd1def0"
+    },
+    {
+      "price": {
+        "amount": 331.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-23T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1823",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T10:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T07:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T12:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T11:15:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c31a6ff1955e48f6b89db516d9f05a82"
+    },
+    {
+      "price": {
+        "amount": 331.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-23T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "aeb7ee96229e4871aa0d4fc93d004294"
+    },
+    {
+      "price": {
+        "amount": 331.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-23T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1827",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T15:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T12:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:15:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e18fbbb871de4cc6b055142958016622"
+    },
+    {
+      "price": {
+        "amount": 331.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-23T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1833",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T16:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T15:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "54a8ec68678f4d358c01bf9ea25b326a"
+    },
+    {
+      "price": {
+        "amount": 337.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-23T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 220,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1821",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T07:55:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T04:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T08:35:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a993381760da4d3b91b8d4a510617c14"
+    },
+    {
+      "price": {
+        "amount": 337.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 215,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1828",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T18:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T17:55:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-23T00:30:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T21:30:00Z",
+            "duration_minutes": 215,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1829",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T20:50:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T17:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T22:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T21:35:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ce34ed52752344f6b8b6c1ff5c04e33c"
+    },
+    {
+      "price": {
+        "amount": 478.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 380,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1047",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:25:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T14:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1304",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T17:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T16:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T22:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 1145,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1849",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:25:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:25:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-29T14:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-29T12:55:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3246",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T16:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T14:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2027-01-29T18:20:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2027-01-29T17:20:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2027-01-30T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2027-01-30T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "ee9d32c8e2644c398cf77e6d0ba5f1a3"
+    },
+    {
+      "price": {
+        "amount": 478.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 570,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1300",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T13:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T12:00:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:10:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 1145,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1849",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T14:25:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T11:25:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-29T14:55:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-29T12:55:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3246",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T16:00:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T14:00:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2027-01-29T18:20:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2027-01-29T17:20:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2027-01-30T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2027-01-30T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2faad77fcf934de6bce9d8ede6d7fb4f"
+    },
+    {
+      "price": {
+        "amount": 570.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1888",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "OTP",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Bucharest",
+            "arrival_time_utc": "2027-01-22T12:10:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1040",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "OTP",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Bucharest",
+            "departure_time_utc": "2027-01-22T13:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:05:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:05:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "TAROM",
+        "duration_minutes": 1045,
+        "segments": [
+          {
+            "marketing_carrier_code": "RO",
+            "flight_number": "264",
+            "operating_carrier_name": "TAROM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T19:35:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T16:35:00Z",
+            "arrival_airport": "OTP",
+            "arrival_time_local": "2027-01-29T20:20:00",
+            "arrival_timezone": "Europe/Bucharest",
+            "arrival_time_utc": "2027-01-29T18:20:00Z",
+            "duration_minutes": 105,
+            "aircraft": "ATR 72"
+          },
+          {
+            "marketing_carrier_code": "RO",
+            "flight_number": "381",
+            "operating_carrier_name": "TAROM",
+            "departure_airport": "OTP",
+            "departure_time_local": "2027-01-30T08:40:00",
+            "departure_timezone": "Europe/Bucharest",
+            "departure_time_utc": "2027-01-30T06:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-30T11:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-30T10:00:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "e6c58a7be78a410799adaf2bd1f4cd5f"
+    },
+    {
+      "price": {
+        "amount": 621.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1888",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "OTP",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Bucharest",
+            "arrival_time_utc": "2027-01-22T12:10:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1040",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "OTP",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Bucharest",
+            "departure_time_utc": "2027-01-22T13:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:05:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:05:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "TAROM",
+        "duration_minutes": 470,
+        "segments": [
+          {
+            "marketing_carrier_code": "RO",
+            "flight_number": "262",
+            "operating_carrier_name": "TAROM",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T11:40:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T08:40:00Z",
+            "arrival_airport": "OTP",
+            "arrival_time_local": "2027-01-29T12:25:00",
+            "arrival_timezone": "Europe/Bucharest",
+            "arrival_time_utc": "2027-01-29T10:25:00Z",
+            "duration_minutes": 105,
+            "aircraft": "ATR 72"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1889",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "OTP",
+            "departure_time_local": "2027-01-29T15:10:00",
+            "departure_timezone": "Europe/Bucharest",
+            "departure_time_utc": "2027-01-29T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T17:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T16:30:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4fdc2c2d89af48e89884fddd6d4c7545"
+    },
+    {
+      "price": {
+        "amount": 688.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 350,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1888",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:15:00Z",
+            "arrival_airport": "OTP",
+            "arrival_time_local": "2027-01-22T14:10:00",
+            "arrival_timezone": "Europe/Bucharest",
+            "arrival_time_utc": "2027-01-22T12:10:00Z",
+            "duration_minutes": 175,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1040",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "OTP",
+            "departure_time_local": "2027-01-22T15:35:00",
+            "departure_timezone": "Europe/Bucharest",
+            "departure_time_utc": "2027-01-22T13:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:05:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:05:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 555,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1043",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T08:15:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T05:15:00Z",
+            "arrival_airport": "OTP",
+            "arrival_time_local": "2027-01-29T08:35:00",
+            "arrival_timezone": "Europe/Bucharest",
+            "arrival_time_utc": "2027-01-29T06:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "RO",
+            "flight_number": "383",
+            "operating_carrier_name": "TAROM",
+            "departure_airport": "OTP",
+            "departure_time_local": "2027-01-29T13:10:00",
+            "departure_timezone": "Europe/Bucharest",
+            "departure_time_utc": "2027-01-29T11:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T14:30:00Z",
+            "duration_minutes": 200,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "ba991f94a22948688cbd6a8f1b5ba740"
+    },
+    {
+      "price": {
+        "amount": 269.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 380,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1047",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:25:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T14:40:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1304",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T17:35:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T16:35:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T22:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T19:45:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 565,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "991",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T11:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T08:30:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-29T12:00:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-29T10:00:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1831",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T13:55:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T11:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:00:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:00:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "726e870cf07944769db57c0a7d50bca8"
+    },
+    {
+      "price": {
+        "amount": 269.0,
+        "currency": "USD",
+        "status": "unverified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 570,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1051",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T06:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T05:40:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2027-01-22T07:55:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2027-01-22T06:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1300",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FRA",
+            "departure_time_local": "2027-01-22T13:00:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2027-01-22T12:00:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2027-01-22T18:10:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2027-01-22T15:10:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Aegean",
+        "duration_minutes": 565,
+        "segments": [
+          {
+            "marketing_carrier_code": "A3",
+            "flight_number": "991",
+            "operating_carrier_name": "Aegean",
+            "departure_airport": "IST",
+            "departure_time_local": "2027-01-29T11:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2027-01-29T08:30:00Z",
+            "arrival_airport": "ATH",
+            "arrival_time_local": "2027-01-29T12:00:00",
+            "arrival_timezone": "Europe/Athens",
+            "arrival_time_utc": "2027-01-29T10:00:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1831",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ATH",
+            "departure_time_local": "2027-01-29T13:55:00",
+            "departure_timezone": "Europe/Athens",
+            "departure_time_utc": "2027-01-29T11:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2027-01-29T16:00:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2027-01-29T15:00:00Z",
+            "duration_minutes": 185,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "644",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2027-01-29T17:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2027-01-29T16:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2027-01-29T18:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2027-01-29T17:55:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "51a2cac4f0cf4644bf9178770080867d"
+    }
+  ],
+  "observed_at": "2026-10-24T21:43:34.901585Z"
+}

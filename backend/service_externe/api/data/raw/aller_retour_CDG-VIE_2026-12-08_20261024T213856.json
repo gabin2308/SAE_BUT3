@@ -1,0 +1,3730 @@
+{
+  "origin": "CDG",
+  "destination": "VIE",
+  "departure_date": "2026-12-08",
+  "return_date": "2026-12-15",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "136",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T12:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T11:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4bb085b0aff94f6faee2688eeb18e753"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "136",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T12:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T11:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b65fb261265a400987ddf71050d5c35c"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "136",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T12:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T11:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "f231a76cdb2f450a8fb71f2ba6998a29"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 285,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "134",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T10:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T09:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2967da57c2f445c4aa75d8e4875ff463"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 285,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "134",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T10:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T09:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2eddca59d3f24fe28125fb8a1001f215"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 285,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "134",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T10:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T09:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "7a3944f8ac58476d8ef7f8b51bee37cd"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 765,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "148",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-09T07:20:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-09T06:20:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-09T08:40:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-09T07:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4f469f1c92d04978ba747121cdaf25d4"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 765,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "148",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-09T07:20:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-09T06:20:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-09T08:40:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-09T07:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "47992e751f784c488c2d8d5996bc4239"
+    },
+    {
+      "price": {
+        "amount": 177.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 765,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "148",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-09T07:20:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-09T06:20:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-09T08:40:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-09T07:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "ce10b995de9941d9aac8e7bfb4562b05"
+    },
+    {
+      "price": {
+        "amount": 182.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "643fb8765f0b4b238eb79524df56d90d"
+    },
+    {
+      "price": {
+        "amount": 182.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "734eacb9b22946efb14fb0bd22072734"
+    },
+    {
+      "price": {
+        "amount": 182.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b1d0de1646244a64b4b07680c38a9d1a"
+    },
+    {
+      "price": {
+        "amount": 188.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "370",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T09:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T08:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fb74ce583e1345b6a0cf14d92a21719c"
+    },
+    {
+      "price": {
+        "amount": 188.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "370",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T09:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T08:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "40c394dce16e47089e0f3e01669e0a76"
+    },
+    {
+      "price": {
+        "amount": 188.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "370",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T09:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T08:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7923c1cc3d764a058dfea24f54a104d9"
+    },
+    {
+      "price": {
+        "amount": 191.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1043",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T11:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T10:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "208",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T12:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T11:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:15:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:15:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b61fe72343d346968f3eac2295b8c330"
+    },
+    {
+      "price": {
+        "amount": 191.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1043",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T11:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T10:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "208",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T12:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T11:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:15:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:15:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "fd70a754dbbe45929bf797f46974f2d5"
+    },
+    {
+      "price": {
+        "amount": 191.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1043",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T11:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T10:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "208",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T12:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T11:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:15:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:15:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "f2727e7b631e4559bbb035c21260c53a"
+    },
+    {
+      "price": {
+        "amount": 200.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "633",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T11:20:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T10:20:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "136",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T12:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T11:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "145",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:30:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:30:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-15T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-15T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "76282818621b4f5e8479e626e5148904"
+    },
+    {
+      "price": {
+        "amount": 200.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 285,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "647",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:15:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T08:35:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T07:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "134",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-08T10:40:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-08T09:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "145",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:30:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:30:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-15T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-15T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "d99f22f8e88a425884ff4cb3ef3b19d3"
+    },
+    {
+      "price": {
+        "amount": 200.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 765,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "645",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T19:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T18:55:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-08T21:10:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-08T20:10:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "148",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-09T07:20:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-09T06:20:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-09T08:40:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-09T07:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "145",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:30:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:30:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-15T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-15T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "5b9eed00e54346869bd608c5969507cd"
+    },
+    {
+      "price": {
+        "amount": 212.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1045",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T12:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T11:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "210",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T13:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T12:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T15:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T14:05:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "1aace09fdf374b8da3c95d0e53bcfe89"
+    },
+    {
+      "price": {
+        "amount": 212.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1045",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T12:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T11:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "210",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T13:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T12:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T15:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T14:05:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "0f6df43471c94b739c536ee517a966d9"
+    },
+    {
+      "price": {
+        "amount": 212.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1045",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:05:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T12:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T11:20:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "210",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T13:40:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T12:40:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T15:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T14:05:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "860078229e6545938b2fece1f8e9ce69"
+    },
+    {
+      "price": {
+        "amount": 212.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa City Airlines",
+        "duration_minutes": 395,
+        "segments": [
+          {
+            "marketing_carrier_code": "VL",
+            "flight_number": "2239",
+            "operating_carrier_name": "Lufthansa City Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T06:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T05:00:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T07:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T06:25:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "185",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T13:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T12:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-15T14:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-15T13:20:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-15T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-15T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "a9cca765db514bc6bf2d7ff41faa3221"
+    },
+    {
+      "price": {
+        "amount": 213.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "370",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T07:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T06:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T09:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T08:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "145",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:30:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:30:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-15T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-15T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b39feae1528b41a68230f76bd065bf2b"
+    },
+    {
+      "price": {
+        "amount": 221.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 245,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1043",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:10:00Z",
+            "arrival_airport": "FRA",
+            "arrival_time_local": "2026-12-08T11:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T10:25:00Z",
+            "duration_minutes": 75,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "208",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "FRA",
+            "departure_time_local": "2026-12-08T12:50:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T11:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T14:15:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T13:15:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 255,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "185",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T13:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T12:20:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-15T14:20:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-15T13:20:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2232",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-15T15:55:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-15T14:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T17:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T16:35:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "76a857390e4444edaa5d6d0cdb07c037"
+    },
+    {
+      "price": {
+        "amount": 233.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 205,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2227",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:10:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T10:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T09:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "950dbfc7f35946bd820ddc55e69e1504"
+    },
+    {
+      "price": {
+        "amount": 233.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 205,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2227",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:10:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T10:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T09:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "4be989fbd71140dd976e1b63f30b1d18"
+    },
+    {
+      "price": {
+        "amount": 233.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 205,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2227",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:10:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-12-08T10:35:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-12-08T09:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "184",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-12-08T11:30:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-12-08T10:30:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:35:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:35:00Z",
+            "duration_minutes": 65,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "e4b0d05462f74ad4a368331c8fb76dc4"
+    },
+    {
+      "price": {
+        "amount": 265.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 555,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3634",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-12-08T11:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-12-08T10:10:00Z",
+            "duration_minutes": 55,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "296",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-12-08T17:45:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-12-08T16:45:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T19:30:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T18:30:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 785,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "2906",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-12-15T20:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-12-15T19:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-12-16T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-12-16T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "245a0215ead8416da652e0e15600756e"
+    },
+    {
+      "price": {
+        "amount": 265.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Brussels Airlines",
+        "duration_minutes": 555,
+        "segments": [
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3634",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:15:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-12-08T11:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-12-08T10:10:00Z",
+            "duration_minutes": 55,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "296",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-12-08T17:45:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-12-08T16:45:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T19:30:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T18:30:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 845,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "297",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:25:00Z",
+            "arrival_airport": "BRU",
+            "arrival_time_local": "2026-12-15T19:10:00",
+            "arrival_timezone": "Europe/Brussels",
+            "arrival_time_utc": "2026-12-15T18:10:00Z",
+            "duration_minutes": 105,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "SN",
+            "flight_number": "3631",
+            "operating_carrier_name": "Brussels Airlines",
+            "departure_airport": "BRU",
+            "departure_time_local": "2026-12-16T06:30:00",
+            "departure_timezone": "Europe/Brussels",
+            "departure_time_utc": "2026-12-16T05:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T07:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T06:30:00Z",
+            "duration_minutes": 60,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "512e10cfb7cc4ddfa61d3711bb4fd235"
+    },
+    {
+      "price": {
+        "amount": 269.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "362",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:05:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a49414aff6cd45bb9e2120deb7b743ca"
+    },
+    {
+      "price": {
+        "amount": 269.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "362",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:05:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "c3f24e91336f4794a965372eb87ef679"
+    },
+    {
+      "price": {
+        "amount": 269.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "362",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:05:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9b37bcd4f2e74c7b8332bea8f7d86d6b"
+    },
+    {
+      "price": {
+        "amount": 286.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "368",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "367",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:20:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:20:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "19163e938e3940db81cee644d171b77d"
+    },
+    {
+      "price": {
+        "amount": 286.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "368",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "361",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T07:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T09:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T08:15:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6053a3b2b1a54f759a697cbd1d285eb8"
+    },
+    {
+      "price": {
+        "amount": 286.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "368",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 125,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "369",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T20:25:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T19:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:30:00Z",
+            "duration_minutes": 125,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2bb7ba2ec2fc4873b41158d3349b2ec5"
+    },
+    {
+      "price": {
+        "amount": 310.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "362",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T10:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T09:05:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T12:00:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T11:00:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "145",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:30:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:30:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-15T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-15T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "076a23e50af24a59acd781d104cfb5a7"
+    },
+    {
+      "price": {
+        "amount": 310.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 115,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "368",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:10:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:05:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Austrian",
+        "duration_minutes": 225,
+        "segments": [
+          {
+            "marketing_carrier_code": "OS",
+            "flight_number": "145",
+            "operating_carrier_name": "Austrian",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:30:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:30:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "646",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-12-15T20:55:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-12-15T19:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T22:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T21:15:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "846305413ab84c61a4e1dca6bb4781fc"
+    },
+    {
+      "price": {
+        "amount": 394.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:50:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:50:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1906",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:05:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:05:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T18:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T17:55:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "7d45e81a6184457e83e0a8fc4a087b1f"
+    },
+    {
+      "price": {
+        "amount": 394.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:50:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:50:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 520,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1900",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T06:50:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T05:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T08:45:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T07:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "e6da1723e9d345d18778516cce376cc8"
+    },
+    {
+      "price": {
+        "amount": 409.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:50:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:50:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1739",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f4095dad92a34556adfc08d831066463"
+    },
+    {
+      "price": {
+        "amount": 442.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:50:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:50:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1902",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T12:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T11:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T14:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T13:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1741",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T14:50:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T13:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T16:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T15:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "8dfb40a6a1e945d99e4021d6802592c9"
+    },
+    {
+      "price": {
+        "amount": 451.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:50:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:50:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1139",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T12:55:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T11:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T15:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T14:10:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5a880b5543c0412b99dd567d4569f632"
+    },
+    {
+      "price": {
+        "amount": 472.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1906",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:05:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:05:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T18:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T17:55:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b7491824bf92477ea24d4f0811cfa0d1"
+    },
+    {
+      "price": {
+        "amount": 472.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 520,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1900",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T06:50:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T05:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T08:45:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T07:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2c86c4e8ac4647488126f56e9503b73b"
+    },
+    {
+      "price": {
+        "amount": 487.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1739",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9610b99c0a9e4657817d79d494f8f885"
+    },
+    {
+      "price": {
+        "amount": 514.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1238",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T20:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T19:50:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T22:50:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T21:50:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 140,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1239",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T06:15:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T05:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T08:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T07:35:00Z",
+            "duration_minutes": 140,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "6189fc3d92a4475c9610c5c04266f081"
+    },
+    {
+      "price": {
+        "amount": 517.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 290,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1906",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T17:05:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T16:05:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T18:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T17:55:00Z",
+            "duration_minutes": 110,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1441",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T20:35:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T19:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T21:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T20:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b3dabb28342945f19834e6f984eb4340"
+    },
+    {
+      "price": {
+        "amount": 517.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 520,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1900",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T06:50:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T05:50:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T08:45:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T07:45:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1641",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T14:10:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T13:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T15:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T14:30:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "c0c5ecbb4a37464c8e685deec773fcc1"
+    },
+    {
+      "price": {
+        "amount": 521.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1902",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T12:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T11:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T14:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T13:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1741",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T14:50:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T13:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T16:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T15:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2ee36a712f2544778615bcb992f6a483"
+    },
+    {
+      "price": {
+        "amount": 530.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1139",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T12:55:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T11:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T15:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T14:10:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "cbc40c76912442c4bd029930cb6903b2"
+    },
+    {
+      "price": {
+        "amount": 532.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 130,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1739",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T18:20:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T17:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 130,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "dc06509ea127420692f4a7d6aa77fe8c"
+    },
+    {
+      "price": {
+        "amount": 566.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 240,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1902",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T12:10:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T11:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-15T14:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-15T13:05:00Z",
+            "duration_minutes": 115,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1741",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-15T14:50:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-15T13:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T16:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T15:10:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b4a8cccf18d54a37b93d554aca418bf9"
+    },
+    {
+      "price": {
+        "amount": 574.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 135,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1139",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T12:55:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T11:55:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T15:10:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T14:10:00Z",
+            "duration_minutes": 135,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "01d7bc73de27433b916ce91a39b1558e"
+    },
+    {
+      "price": {
+        "amount": 592.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1738",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:25:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T17:25:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 140,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1239",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T06:15:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T05:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T08:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T07:35:00Z",
+            "duration_minutes": 140,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "4f791160ded0437aae5d8c857984f3bf"
+    },
+    {
+      "price": {
+        "amount": 637.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 120,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1138",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T09:55:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T08:55:00Z",
+            "arrival_airport": "VIE",
+            "arrival_time_local": "2026-12-08T11:55:00",
+            "arrival_timezone": "Europe/Vienna",
+            "arrival_time_utc": "2026-12-08T10:55:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Air France",
+        "duration_minutes": 140,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1239",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "VIE",
+            "departure_time_local": "2026-12-15T06:15:00",
+            "departure_timezone": "Europe/Vienna",
+            "departure_time_utc": "2026-12-15T05:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T08:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T07:35:00Z",
+            "duration_minutes": 140,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "917c451ef3eb4f4fb85edee4c9bd9d80"
+    }
+  ],
+  "observed_at": "2026-10-24T21:38:56.357500Z"
+}

@@ -1,0 +1,484 @@
+{
+  "origin": "CDG",
+  "destination": "YUL",
+  "departure_date": "2027-01-22",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 412.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 605,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "309",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T15:10:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T14:10:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T15:35:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T15:35:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "95",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T16:45:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T19:15:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-23T00:15:00Z",
+            "duration_minutes": 450,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "26230c922ab449258f9db361d4d05a56"
+    },
+    {
+      "price": {
+        "amount": 412.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 815,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "305",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T11:40:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T10:40:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T12:05:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T12:05:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "95",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-22T16:45:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-22T16:45:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T19:15:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-23T00:15:00Z",
+            "duration_minutes": 450,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "7da6092d27cb42e09279455ac9f3f1b4"
+    },
+    {
+      "price": {
+        "amount": 429.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 1730,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "317",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:25:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2027-01-22T20:35:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2027-01-22T20:35:00Z",
+            "duration_minutes": 70,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "95",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2027-01-23T16:45:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2027-01-23T16:45:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-23T19:15:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-24T00:15:00Z",
+            "duration_minutes": 450,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2ba2b1b684dc47e7b1ed76c94e29aa00"
+    },
+    {
+      "price": {
+        "amount": 566.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1740,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1124",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:45:00Z",
+            "arrival_airport": "LIS",
+            "arrival_time_local": "2027-01-22T22:25:00",
+            "arrival_timezone": "Europe/Lisbon",
+            "arrival_time_utc": "2027-01-22T22:25:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "S4",
+            "flight_number": "121",
+            "operating_carrier_name": "Azores Airlines",
+            "departure_airport": "LIS",
+            "departure_time_local": "2027-01-23T06:00:00",
+            "departure_timezone": "Europe/Lisbon",
+            "departure_time_utc": "2027-01-23T06:00:00Z",
+            "arrival_airport": "PDL",
+            "arrival_time_local": "2027-01-23T07:30:00",
+            "arrival_timezone": "Atlantic/Azores",
+            "arrival_time_utc": "2027-01-23T08:30:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "S4",
+            "flight_number": "327",
+            "operating_carrier_name": "Azores Airlines",
+            "departure_airport": "PDL",
+            "departure_time_local": "2027-01-23T17:40:00",
+            "departure_timezone": "Atlantic/Azores",
+            "departure_time_utc": "2027-01-23T18:40:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-23T19:45:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-24T00:45:00Z",
+            "duration_minutes": 365,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "2164297b84b547c192e25322845b80bd"
+    },
+    {
+      "price": {
+        "amount": 566.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 1740,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1124",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T20:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T19:45:00Z",
+            "arrival_airport": "LIS",
+            "arrival_time_local": "2027-01-22T22:25:00",
+            "arrival_timezone": "Europe/Lisbon",
+            "arrival_time_utc": "2027-01-22T22:25:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "S4",
+            "flight_number": "125",
+            "operating_carrier_name": "Azores Airlines",
+            "departure_airport": "LIS",
+            "departure_time_local": "2027-01-23T14:05:00",
+            "departure_timezone": "Europe/Lisbon",
+            "departure_time_utc": "2027-01-23T14:05:00Z",
+            "arrival_airport": "PDL",
+            "arrival_time_local": "2027-01-23T15:35:00",
+            "arrival_timezone": "Atlantic/Azores",
+            "arrival_time_utc": "2027-01-23T16:35:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A321neo"
+          },
+          {
+            "marketing_carrier_code": "S4",
+            "flight_number": "327",
+            "operating_carrier_name": "Azores Airlines",
+            "departure_airport": "PDL",
+            "departure_time_local": "2027-01-23T17:40:00",
+            "departure_timezone": "Atlantic/Azores",
+            "departure_time_utc": "2027-01-23T18:40:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-23T19:45:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-24T00:45:00Z",
+            "duration_minutes": 365,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "190fa804cad04f5fba5cf02511062113"
+    },
+    {
+      "price": {
+        "amount": 569.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Transat",
+        "duration_minutes": 470,
+        "segments": [
+          {
+            "marketing_carrier_code": "TS",
+            "flight_number": "111",
+            "operating_carrier_name": "Air Transat",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:50:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T12:40:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-22T17:40:00Z",
+            "duration_minutes": 470,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "733e0ccb88b34dfb814b61408d4200c2"
+    },
+    {
+      "price": {
+        "amount": 1253.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Royal Air Maroc",
+        "duration_minutes": 745,
+        "segments": [
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "779",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:15:00Z",
+            "arrival_airport": "CMN",
+            "arrival_time_local": "2027-01-22T14:25:00",
+            "arrival_timezone": "Africa/Casablanca",
+            "arrival_time_utc": "2027-01-22T14:25:00Z",
+            "duration_minutes": 190,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "AT",
+            "flight_number": "208",
+            "operating_carrier_name": "Royal Air Maroc",
+            "departure_airport": "CMN",
+            "departure_time_local": "2027-01-22T15:45:00",
+            "departure_timezone": "Africa/Casablanca",
+            "departure_time_utc": "2027-01-22T15:45:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T18:40:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-22T23:40:00Z",
+            "duration_minutes": 475,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "291eb04cf166471db4dfb7d26f571dd1"
+    },
+    {
+      "price": {
+        "amount": 1448.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 645,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1740",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T12:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T11:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2027-01-22T13:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2027-01-22T12:50:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "671",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2027-01-22T15:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2027-01-22T14:20:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T17:15:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-22T22:15:00Z",
+            "duration_minutes": 475,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "ba0208f854c340909c93f44ae46bcc99"
+    },
+    {
+      "price": {
+        "amount": 1459.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 465,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "342",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T10:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T09:30:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T12:15:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-22T17:15:00Z",
+            "duration_minutes": 465,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a089a6326eb042c0b683a5578dbc2023"
+    },
+    {
+      "price": {
+        "amount": 1459.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 470,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "344",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T13:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T12:30:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T15:20:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-22T20:20:00Z",
+            "duration_minutes": 470,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "25de385be95e41a580b09abc5a60eb82"
+    },
+    {
+      "price": {
+        "amount": 1669.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Canada",
+        "duration_minutes": 460,
+        "segments": [
+          {
+            "marketing_carrier_code": "AC",
+            "flight_number": "871",
+            "operating_carrier_name": "Air Canada",
+            "departure_airport": "CDG",
+            "departure_time_local": "2027-01-22T14:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2027-01-22T13:00:00Z",
+            "arrival_airport": "YUL",
+            "arrival_time_local": "2027-01-22T15:40:00",
+            "arrival_timezone": "America/Toronto",
+            "arrival_time_utc": "2027-01-22T20:40:00Z",
+            "duration_minutes": 460,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "619e8704b5ac4b10b4fdf90009919b15"
+    }
+  ],
+  "observed_at": "2026-10-24T21:44:17.284208Z"
+}

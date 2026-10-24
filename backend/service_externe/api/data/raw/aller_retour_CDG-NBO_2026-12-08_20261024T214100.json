@@ -1,0 +1,1820 @@
+{
+  "origin": "CDG",
+  "destination": "NBO",
+  "departure_date": "2026-12-08",
+  "return_date": "2026-12-15",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 788.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Kenya Airways",
+        "duration_minutes": 505,
+        "segments": [
+          {
+            "marketing_carrier_code": "KQ",
+            "flight_number": "113",
+            "operating_carrier_name": "Kenya Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:00:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-08T21:25:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-08T18:25:00Z",
+            "duration_minutes": 505,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Kenya Airways",
+        "duration_minutes": 520,
+        "segments": [
+          {
+            "marketing_carrier_code": "KQ",
+            "flight_number": "112",
+            "operating_carrier_name": "Kenya Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T23:50:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T20:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T06:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T05:30:00Z",
+            "duration_minutes": 520,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "ddd6337568d4420d860f777b5bfaa975"
+    },
+    {
+      "price": {
+        "amount": 867.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 680,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1824",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T13:45:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T12:45:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2026-12-08T19:25:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2026-12-08T16:25:00Z",
+            "duration_minutes": 220,
+            "aircraft": "Airbus A330"
+          },
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "607",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2026-12-08T20:30:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2026-12-08T17:30:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T03:05:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T00:05:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Airbus A330"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Turkish Airlines",
+        "duration_minutes": 720,
+        "segments": [
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "608",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T04:30:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T01:30:00Z",
+            "arrival_airport": "IST",
+            "arrival_time_local": "2026-12-15T11:45:00",
+            "arrival_timezone": "Europe/Istanbul",
+            "arrival_time_utc": "2026-12-15T08:45:00Z",
+            "duration_minutes": 435,
+            "aircraft": "Boeing 737MAX 8 Passenger"
+          },
+          {
+            "marketing_carrier_code": "TK",
+            "flight_number": "1825",
+            "operating_carrier_name": "Turkish Airlines",
+            "departure_airport": "IST",
+            "departure_time_local": "2026-12-15T12:45:00",
+            "departure_timezone": "Europe/Istanbul",
+            "departure_time_utc": "2026-12-15T09:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T14:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T13:30:00Z",
+            "duration_minutes": 225,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "898166772c0e4914ab35de28467fea55"
+    },
+    {
+      "price": {
+        "amount": 881.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Etihad",
+        "duration_minutes": 795,
+        "segments": [
+          {
+            "marketing_carrier_code": "EY",
+            "flight_number": "36",
+            "operating_carrier_name": "Etihad",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:05:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:05:00Z",
+            "arrival_airport": "AUH",
+            "arrival_time_local": "2026-12-09T00:40:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T20:40:00Z",
+            "duration_minutes": 395,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "EY",
+            "flight_number": "769",
+            "operating_carrier_name": "Etihad",
+            "departure_airport": "AUH",
+            "departure_time_local": "2026-12-09T02:00:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-08T22:00:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T06:20:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 320,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Etihad",
+        "duration_minutes": 1150,
+        "segments": [
+          {
+            "marketing_carrier_code": "EY",
+            "flight_number": "768",
+            "operating_carrier_name": "Etihad",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T13:35:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T10:35:00Z",
+            "arrival_airport": "AUH",
+            "arrival_time_local": "2026-12-15T19:35:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-15T15:35:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "EY",
+            "flight_number": "31",
+            "operating_carrier_name": "Etihad",
+            "departure_airport": "AUH",
+            "departure_time_local": "2026-12-16T02:25:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-15T22:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T06:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T05:45:00Z",
+            "duration_minutes": 440,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "76184bec32c347eeb6669a0419fd7b43"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-09T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1345",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T08:40:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-09T05:40:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T13:45:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T10:45:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 820,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1342",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T01:35:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-14T22:35:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T06:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T03:35:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "39",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-15T08:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T05:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T13:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T12:15:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fe0591403261434f9efd76421f731839"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-09T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1345",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T08:40:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-09T05:40:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T13:45:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T10:45:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1346",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T08:45:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T05:45:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T13:45:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T10:45:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "37",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-15T15:25:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T12:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "e0848884d4b645cbb92603536219ac89"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "40",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:15:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-08T23:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-08T20:35:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1335",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T02:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-08T23:10:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T07:15:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T04:15:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 820,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1342",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T01:35:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-14T22:35:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T06:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T03:35:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "39",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-15T08:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T05:10:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T13:15:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T12:15:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "a2380b97c0f54185a6084a64cd687623"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "40",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:15:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-08T23:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-08T20:35:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1335",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T02:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-08T23:10:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T07:15:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T04:15:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1346",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T08:45:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T05:45:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T13:45:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T10:45:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "37",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-15T15:25:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T12:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "efe3ec826f574c75a414ce073bb3c452"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-09T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1345",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T08:40:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-09T05:40:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T13:45:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T10:45:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 935,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1336",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T17:00:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T14:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T22:00:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T19:00:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "41",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-16T01:30:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T22:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T06:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T05:35:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "46b321762aa445c28c678387a7a95aea"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "40",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:15:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-08T23:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-08T20:35:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1335",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T02:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-08T23:10:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T07:15:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T04:15:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 935,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1336",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T17:00:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T14:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T22:00:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T19:00:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 787"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "41",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-16T01:30:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T22:30:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T06:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T05:35:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9345d841be51410eb64b9948f1cd57fa"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-09T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1345",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T08:40:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-09T05:40:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T13:45:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T10:45:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 1255,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1342",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T01:35:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-14T22:35:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T06:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T03:35:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "37",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-15T15:25:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T12:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "18e0d28ff14446ca837ab35cbe32c07d"
+    },
+    {
+      "price": {
+        "amount": 890.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "40",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:15:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-08T23:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-08T20:35:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1335",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T02:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-08T23:10:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T07:15:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T04:15:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 1255,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1342",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T01:35:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-14T22:35:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-15T06:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-15T03:35:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "37",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-15T15:25:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-15T12:25:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T20:30:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T19:30:00Z",
+            "duration_minutes": 425,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "d1215bcd295746b397a98b0354b0dd40"
+    },
+    {
+      "price": {
+        "amount": 971.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 825,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "38",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T22:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T21:00:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-09T06:20:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1345",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T08:40:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-09T05:40:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T13:45:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T10:45:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 770,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "64",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T23:50:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T20:50:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2026-12-16T06:15:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2026-12-16T06:15:00Z",
+            "duration_minutes": 565,
+            "aircraft": "Boeing 787-10"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "304",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2026-12-16T08:20:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2026-12-16T08:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T10:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T09:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fc745bdfe6534a32a89332edb307fe08"
+    },
+    {
+      "price": {
+        "amount": 971.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Qatar Airways",
+        "duration_minutes": 840,
+        "segments": [
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "40",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T15:15:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T14:15:00Z",
+            "arrival_airport": "DOH",
+            "arrival_time_local": "2026-12-08T23:35:00",
+            "arrival_timezone": "Asia/Qatar",
+            "arrival_time_utc": "2026-12-08T20:35:00Z",
+            "duration_minutes": 380,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "QR",
+            "flight_number": "1335",
+            "operating_carrier_name": "Qatar Airways",
+            "departure_airport": "DOH",
+            "departure_time_local": "2026-12-09T02:10:00",
+            "departure_timezone": "Asia/Qatar",
+            "departure_time_utc": "2026-12-08T23:10:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T07:15:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T04:15:00Z",
+            "duration_minutes": 305,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "British Airways",
+        "duration_minutes": 770,
+        "segments": [
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "64",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T23:50:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T20:50:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2026-12-16T06:15:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2026-12-16T06:15:00Z",
+            "duration_minutes": 565,
+            "aircraft": "Boeing 787-10"
+          },
+          {
+            "marketing_carrier_code": "BA",
+            "flight_number": "304",
+            "operating_carrier_name": "British Airways",
+            "departure_airport": "LHR",
+            "departure_time_local": "2026-12-16T08:20:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2026-12-16T08:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T10:40:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T09:40:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "db1cf173b3de430290e31eaa075060f6"
+    },
+    {
+      "price": {
+        "amount": 1069.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 515,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "782",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:00:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-08T21:35:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-08T18:35:00Z",
+            "duration_minutes": 515,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 696,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "566",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T23:59:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T20:59:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-16T07:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-16T06:10:00Z",
+            "duration_minutes": 551,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1405",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-16T08:15:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-16T07:15:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T09:35:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T08:35:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "5d32db6e005b4463bdebfdb6cba0ae47"
+    },
+    {
+      "price": {
+        "amount": 1069.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air France",
+        "duration_minutes": 515,
+        "segments": [
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "782",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:00:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-08T21:35:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-08T18:35:00Z",
+            "duration_minutes": 515,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "KLM",
+        "duration_minutes": 766,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "566",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T23:59:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T20:59:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-12-16T07:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-12-16T06:10:00Z",
+            "duration_minutes": 551,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1241",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "AMS",
+            "departure_time_local": "2026-12-16T09:20:00",
+            "departure_timezone": "Europe/Amsterdam",
+            "departure_time_utc": "2026-12-16T08:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T10:45:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T09:45:00Z",
+            "duration_minutes": 85,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b0e27b65b6d945489f8c30d784c9dead"
+    },
+    {
+      "price": {
+        "amount": 1076.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 790,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "74",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T13:25:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T00:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T20:15:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "717",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-09T01:25:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-08T21:25:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T05:35:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T02:35:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 850,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "718",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T07:15:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T04:15:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-15T13:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-15T09:15:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "75",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-15T14:45:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-15T10:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:25:00Z",
+            "duration_minutes": 460,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b619b1cdceb74bcb8d6f234349d449ba"
+    },
+    {
+      "price": {
+        "amount": 1076.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 790,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "74",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T13:25:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T00:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T20:15:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "717",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-09T01:25:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-08T21:25:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T05:35:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T02:35:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 940,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "722",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T22:45:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T19:45:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-16T04:45:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-16T00:45:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "73",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-16T07:50:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-16T03:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T12:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T11:25:00Z",
+            "duration_minutes": 455,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "173285869df2494a8c72b54999f0d440"
+    },
+    {
+      "price": {
+        "amount": 1076.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 910,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "76",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T20:30:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T07:20:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "719",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-09T10:30:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-09T06:30:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T14:40:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T11:40:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 850,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "718",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T07:15:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T04:15:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-15T13:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-15T09:15:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "75",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-15T14:45:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-15T10:45:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:25:00Z",
+            "duration_minutes": 460,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "f5af305d034c4e969bbfd41bdf1fe6ce"
+    },
+    {
+      "price": {
+        "amount": 1076.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 790,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "74",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T14:25:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T13:25:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T00:15:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-08T20:15:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "717",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-09T01:25:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-08T21:25:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T05:35:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T02:35:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 1035,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "720",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T16:45:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T13:45:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-15T22:45:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-15T18:45:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "71",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-16T03:20:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-15T23:20:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T08:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T07:00:00Z",
+            "duration_minutes": 460,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "cc6f64af6b8d456cb0360f64f67e7c7c"
+    },
+    {
+      "price": {
+        "amount": 1076.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 910,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "76",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T21:30:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T20:30:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-09T07:20:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-09T03:20:00Z",
+            "duration_minutes": 410,
+            "aircraft": "Airbus A380"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "719",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-09T10:30:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-09T06:30:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T14:40:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T11:40:00Z",
+            "duration_minutes": 310,
+            "aircraft": "Boeing 777"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Emirates",
+        "duration_minutes": 940,
+        "segments": [
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "722",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T22:45:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T19:45:00Z",
+            "arrival_airport": "DXB",
+            "arrival_time_local": "2026-12-16T04:45:00",
+            "arrival_timezone": "Asia/Dubai",
+            "arrival_time_utc": "2026-12-16T00:45:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "EK",
+            "flight_number": "73",
+            "operating_carrier_name": "Emirates",
+            "departure_airport": "DXB",
+            "departure_time_local": "2026-12-16T07:50:00",
+            "departure_timezone": "Asia/Dubai",
+            "departure_time_utc": "2026-12-16T03:50:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-16T12:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-16T11:25:00Z",
+            "duration_minutes": 455,
+            "aircraft": "Airbus A380"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "af297fb3f2e048748523792ca01eda7d"
+    },
+    {
+      "price": {
+        "amount": 1194.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "EgyptAir",
+        "duration_minutes": 630,
+        "segments": [
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "800",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T14:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T13:50:00Z",
+            "arrival_airport": "CAI",
+            "arrival_time_local": "2026-12-08T20:15:00",
+            "arrival_timezone": "Africa/Cairo",
+            "arrival_time_utc": "2026-12-08T18:15:00Z",
+            "duration_minutes": 265,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "849",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "CAI",
+            "departure_time_local": "2026-12-08T21:20:00",
+            "departure_timezone": "Africa/Cairo",
+            "departure_time_utc": "2026-12-08T19:20:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T03:20:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T00:20:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "EgyptAir",
+        "duration_minutes": 1120,
+        "segments": [
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "850",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T04:20:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T01:20:00Z",
+            "arrival_airport": "CAI",
+            "arrival_time_local": "2026-12-15T08:35:00",
+            "arrival_timezone": "Africa/Cairo",
+            "arrival_time_utc": "2026-12-15T06:35:00Z",
+            "duration_minutes": 315,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "801",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "CAI",
+            "departure_time_local": "2026-12-15T17:05:00",
+            "departure_timezone": "Africa/Cairo",
+            "departure_time_utc": "2026-12-15T15:05:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T21:00:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T20:00:00Z",
+            "duration_minutes": 295,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fd973ab6b4674b6cb4e7875ab6600092"
+    },
+    {
+      "price": {
+        "amount": 1202.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "EgyptAir",
+        "duration_minutes": 630,
+        "segments": [
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "800",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T14:50:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T13:50:00Z",
+            "arrival_airport": "CAI",
+            "arrival_time_local": "2026-12-08T20:15:00",
+            "arrival_timezone": "Africa/Cairo",
+            "arrival_time_utc": "2026-12-08T18:15:00Z",
+            "duration_minutes": 265,
+            "aircraft": "Airbus A350"
+          },
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "849",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "CAI",
+            "departure_time_local": "2026-12-08T21:20:00",
+            "departure_timezone": "Africa/Cairo",
+            "departure_time_utc": "2026-12-08T19:20:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-09T03:20:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-09T00:20:00Z",
+            "duration_minutes": 300,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "EgyptAir",
+        "duration_minutes": 665,
+        "segments": [
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "850",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T04:20:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T01:20:00Z",
+            "arrival_airport": "CAI",
+            "arrival_time_local": "2026-12-15T08:35:00",
+            "arrival_timezone": "Africa/Cairo",
+            "arrival_time_utc": "2026-12-15T06:35:00Z",
+            "duration_minutes": 315,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "MS",
+            "flight_number": "799",
+            "operating_carrier_name": "EgyptAir",
+            "departure_airport": "CAI",
+            "departure_time_local": "2026-12-15T09:40:00",
+            "departure_timezone": "Africa/Cairo",
+            "departure_time_utc": "2026-12-15T07:40:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T13:25:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T12:25:00Z",
+            "duration_minutes": 285,
+            "aircraft": "Airbus A350"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "8425bed70c4b499aaff253a21d5664a1"
+    },
+    {
+      "price": {
+        "amount": 1339.0,
+        "currency": "USD",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Kenya Airways",
+        "duration_minutes": 505,
+        "segments": [
+          {
+            "marketing_carrier_code": "KQ",
+            "flight_number": "113",
+            "operating_carrier_name": "Kenya Airways",
+            "departure_airport": "CDG",
+            "departure_time_local": "2026-12-08T11:00:00",
+            "departure_timezone": "Europe/Paris",
+            "departure_time_utc": "2026-12-08T10:00:00Z",
+            "arrival_airport": "NBO",
+            "arrival_time_local": "2026-12-08T21:25:00",
+            "arrival_timezone": "Africa/Nairobi",
+            "arrival_time_utc": "2026-12-08T18:25:00Z",
+            "duration_minutes": 505,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "inbound": {
+        "carrier": "Kenya Airways",
+        "duration_minutes": 765,
+        "segments": [
+          {
+            "marketing_carrier_code": "KQ",
+            "flight_number": "100",
+            "operating_carrier_name": "Kenya Airways",
+            "departure_airport": "NBO",
+            "departure_time_local": "2026-12-15T09:10:00",
+            "departure_timezone": "Africa/Nairobi",
+            "departure_time_utc": "2026-12-15T06:10:00Z",
+            "arrival_airport": "LHR",
+            "arrival_time_local": "2026-12-15T15:30:00",
+            "arrival_timezone": "Europe/London",
+            "arrival_time_utc": "2026-12-15T15:30:00Z",
+            "duration_minutes": 560,
+            "aircraft": "Boeing 777"
+          },
+          {
+            "marketing_carrier_code": "AF",
+            "flight_number": "1281",
+            "operating_carrier_name": "Air France",
+            "departure_airport": "LHR",
+            "departure_time_local": "2026-12-15T17:35:00",
+            "departure_timezone": "Europe/London",
+            "departure_time_utc": "2026-12-15T17:35:00Z",
+            "arrival_airport": "CDG",
+            "arrival_time_local": "2026-12-15T19:55:00",
+            "arrival_timezone": "Europe/Paris",
+            "arrival_time_utc": "2026-12-15T18:55:00Z",
+            "duration_minutes": 80,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": true,
+      "ignav_id": "b558adab46874d268a44f750cbd8c542"
+    }
+  ],
+  "observed_at": "2026-10-24T21:41:00.592658Z"
+}
