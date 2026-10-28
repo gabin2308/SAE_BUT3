@@ -1,0 +1,63 @@
+.
+├── backend
+│   ├── app
+│   │   ├── controllers
+│   │   │   ├── AuthentificationController.py
+│   │   │   ├── __init__.py
+│   │   │   └── UtilisateurController.py
+│   │   ├── database
+│   │   │   ├── initdb.py
+│   │   │   └── schema.sql
+│   │   ├── models
+│   │   │   ├── email
+│   │   │   │   ├── EmailServiceDAO.py
+│   │   │   │   └── EmailServiceInterface.py
+│   │   │   ├── jeton
+│   │   │   │   ├── JetonDAO.py
+│   │   │   │   ├── JetonInterface.py
+│   │   │   │   └── Jeton.py
+│   │   │   ├── pays
+│   │   │   │   └── Pays.py
+│   │   │   ├── token_revoque
+│   │   │   │   ├── TokenRevoqueDAO.py
+│   │   │   │   └── TokenRevoqueInterface.py
+│   │   │   └── utilisateur
+│   │   │       ├── UtilisateurDAO.py
+│   │   │       ├── UtilisateurInterface.py
+│   │   │       ├── Utilisateur.py
+│   │   │       └── UtilisateurSchema.py
+│   │   ├── services
+│   │   │   ├── AuthentificationService.py
+│   │   │   └── UtilisateurService.py
+│   │   ├── utils
+│   │   │   ├── auth.py
+│   │   │   ├── dependencies.py
+│   │   │   ├── exception_handlers.py
+│   │   │   ├── exceptions.py
+│   │   │   ├── jetons.py
+│   │   │   ├── jwt_utils.py
+│   │   │   ├── limiter.py
+│   │   │   └── mot_de_passe.py
+│   │   ├── __init__.py
+│   │   └── settings.py
+│   ├── service_externe
+│   │   ├── api
+│   │   │   ├── collecte_ignav_2.py
+│   │   │   └── collecte_ignav.py
+│   │   └── smtp
+│   │       └── email_smtp.py
+│   ├── Dockerfile
+│   ├── main.py
+│   └── requirements.txt
+├── documentation
+│   ├── Fonctionnalités à développer, dans l'ordre.md
+│   ├── guide_collecte_vols.md
+│   └── User stories – Recommandation de vols (v2).md
+├── arborescence.txt
+├── docker-compose.yml
+├── .env
+├── .env.example
+├── .gitignore
+└── requirements.lock.txt
+
+17 directories, 44 files

@@ -17,11 +17,11 @@ class Settings(BaseSettings):
     database_url: str | None = None
 
     # Développement : paramètres séparés
-    db_host: str = "localhost"
-    db_port: int = 5432
-    db_name: str = "innovdiaspora"
-    db_user: str = "postgres"
-    db_password: str = ""
+    postgres_host: str
+    postgres_port: int
+    postgres_name: str 
+    postgres_user: str 
+    postgres_password: str 
 
     # Emails (SMTP)
     smtp_host: str = "smtp.gmail.com"
@@ -29,44 +29,31 @@ class Settings(BaseSettings):
     smtp_user: str | None = None
     smtp_password: str | None = None
     notify_email: str | None = None 
-    smtp_from_name: str = "Journée de l'innovation"
+    smtp_from_name: str = ""
     smtp_timeout: int = 10  # secondes
 
     # Contact Equipes : formulaire public, sans compte
-    contact_email_equipe: str = ""
+    contact_email_equipe: str
     
     # Front et invitations
-    frontend_url: str = "http://localhost:5173"  # port par défaut de Vite
-    invitation_validite_jours: int = 7
+    frontend_url: str # port par défaut de Vite
 
-
-    depot_validation_heures: int = 48
-    suivi_validite_jours: int = 365
-
-    @property
-    def url_validation_depot(self) -> str:
-        return f"{self.frontend_url.rstrip('/')}/validation"  # route front à adapter
-
-    @property
-    def url_suivi(self) -> str:
-        return f"{self.frontend_url.rstrip('/')}/suivi"  # route front à adapter
-
+    # API
+    ignav_api_key: str | None = None  # clé d'API pour Ignav (si activée)
+    dossier_json: str | None = None  # chemin vers le dossier contenant les fichiers JSON (si activé)
+    
     @property
     def dsn(self) -> str:
         """DATABASE_URL si définie (prod), sinon DSN construit depuis DB_* (dev)."""
         if self.database_url:
             return self.database_url
         return make_dsn(
-            host=self.db_host,
-            port=self.db_port,
-            dbname=self.db_name,
-            user=self.db_user,
-            password=self.db_password,
+            host=self.postgres_host,
+            port=self.postgres_port,
+            dbname=self.postgres_name,
+            user=self.postgres_user,
+            password=self.postgres_password,
         )
-
-    @property
-    def url_activation(self) -> str:
-        return f"{self.frontend_url.rstrip('/')}/activation"  # route front à adapter
 
 
 settings = Settings()

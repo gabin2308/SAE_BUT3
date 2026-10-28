@@ -22,18 +22,17 @@ import sys
 import time
 from datetime import date, timedelta
 from pathlib import Path
+from app.settings import settings
 
 import psycopg2
 import requests
 from psycopg2.extras import Json
 
-from dotenv import load_dotenv
-load_dotenv()
 
 BASE_URL = "https://ignav.com"
-API_KEY = os.environ.get("IGNAV_API_KEY", "")
-DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DOSSIER_JSON = Path(os.environ.get("DOSSIER_JSON", "data/raw"))
+API_KEY = settings.ignav_api_key
+DATABASE_URL = settings.dsn
+DOSSIER_JSON = Path(settings.dossier_json or "data/raw")
 
 # --- À adapter ---------------------------------------------------------------
 DEPARTS = ["CDG"]
@@ -42,6 +41,7 @@ DESTINATIONS = [
     "IST", "DUB", "JFK", "YUL", "DXB", "CMN", "ALG", "TUN", "DSS", "ABJ", "DLA", "NBO",
     "BKK", "HND", "GRU",
 ]
+
 ROUTES = [(o, d) for o in DEPARTS for d in DESTINATIONS if o != d]
 DECALAGES_JOURS = [21, 45, 90]            # départs dans 21, 45 et 90 jours
 DUREE_SEJOUR = 7                          # jours entre aller et retour (aller-retour)

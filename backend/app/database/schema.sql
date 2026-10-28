@@ -61,6 +61,7 @@ CREATE TABLE IF NOT EXISTS utilisateurs (
     prenom                VARCHAR(100) NOT NULL,
     email                 VARCHAR(255) NOT NULL,
     mot_de_passe_hash     VARCHAR(255) NOT NULL,
+    mot_de_passe_change_le TIMESTAMPTZ, -- date du dernier changement de mot de passe
     role                  role_utilisateur NOT NULL DEFAULT 'utilisateur',
     actif                 BOOLEAN NOT NULL DEFAULT FALSE,     -- TRUE après activation par email (US2)
     onboarding_termine    BOOLEAN NOT NULL DEFAULT FALSE,     -- page de préférences passée ou remplie (US5)
@@ -103,6 +104,17 @@ CREATE TABLE IF NOT EXISTS jetons (
 );
 
 CREATE INDEX IF NOT EXISTS idx_jetons_utilisateur ON jetons (utilisateur_id, type);
+
+-- Jetons révoqués (revoked tokens) : pour invalider un refresh token avant son expiration.
+CREATE TABLE IF NOT EXISTS tokens_revoques (
+    jti             VARCHAR(64) PRIMARY KEY,
+    utilisateur_id  UUID NOT NULL REFERENCES utilisateurs(id) ON DELETE CASCADE,
+    type            VARCHAR(10) NOT NULL CHECK (type IN ('access', 'refresh')),
+    expire_le       TIMESTAMPTZ NOT NULL,
+    revoque_le      TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+CREATE INDEX IF NOT EXISTS idx_tokens_revoques_expire ON tokens_revoques (expire_le);
 
 -- ---------------------------------------------------------------------
 -- 2. Référentiel : pays et aéroports
@@ -267,6 +279,20 @@ DROP TRIGGER IF EXISTS trg_preferences_modifie_le ON preferences_utilisateur;
 CREATE TRIGGER trg_preferences_modifie_le
     BEFORE UPDATE ON preferences_utilisateur
     FOR EACH ROW EXECUTE FUNCTION maj_modifie_le();
+
+
+-- Journal des emails envoyés (le corps n'est jamais stocké : il contient un lien secret).
+CREATE TABLE IF NOT EXISTS email_envoye (
+    id             UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    type           VARCHAR(40) NOT NULL,        -- activation, reinitialisation_mdp
+    destinataire   VARCHAR(255) NOT NULL,
+    sujet          VARCHAR(255) NOT NULL,
+    statut         VARCHAR(10) NOT NULL CHECK (statut IN ('envoye', 'echec')),
+    erreur         VARCHAR(500),
+    cree_le        TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+CREATE INDEX IF NOT EXISTS idx_email_envoye_cree ON email_envoye (cree_le DESC);
 
 -- Profil de l'approche A : moyenne des embeddings des vols vus, favoris ou
 -- réservés (ou préférences pour un nouvel utilisateur). Recalculé à la
