@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #eaf2ff;
+  --color-brand-100: #d6e6ff;
+  --color-brand-500: #1a6dff;
+  --color-brand-600: #0b57e0;
+  --color-brand-700: #0846b5;
+  --color-ink: #0c2340;      /* titres */
+  --color-muted: #6b7a90;    /* textes secondaires */
+  --color-surface: #f3f7fe;  /* fond des pages */
+  --font-sans: system-ui, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  @apply bg-surface text-ink antialiased;
+}
