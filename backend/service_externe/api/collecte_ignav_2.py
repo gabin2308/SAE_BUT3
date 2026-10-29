@@ -93,22 +93,25 @@ def calculer_signature(itineraire):
 
 
 def assurer_aeroports(cur, donnees):
-    """Évite les erreurs de clé étrangère : crée les aéroports manquants
-    (nom = code IATA), à enrichir ensuite avec OurAirports."""
-    codes = {donnees["origin"], donnees["destination"]}
+    codes = {donnees["origin"]: None, donnees["destination"]: None}
     for it in donnees["itineraries"]:
         for sens in ("outbound", "inbound"):
             for seg in (it.get(sens) or {}).get("segments", []):
-                codes.add(seg["departure_airport"])
-                codes.add(seg["arrival_airport"])
-    for code in codes:
+                codes[seg["departure_airport"]] = seg.get("departure_timezone") or codes.get(seg["departure_airport"])
+                codes[seg["arrival_airport"]] = seg.get("arrival_timezone") or codes.get(seg["arrival_airport"])
+    for code, fuseau in codes.items():
         cur.execute(
-            "INSERT INTO aeroports (code_iata, nom) VALUES (%s, %s) "
-            "ON CONFLICT (code_iata) DO NOTHING", (code, code))
+            "INSERT INTO aeroports (code_iata, nom, fuseau) VALUES (%s, %s, %s) "
+            "ON CONFLICT (code_iata) DO UPDATE "
+            "SET fuseau = COALESCE(aeroports.fuseau, EXCLUDED.fuseau)",
+            (code, code, fuseau))
 
 
 def inserer_segments(cur, vol_id, trajet, sens):
     for ordre, s in enumerate(trajet["segments"], start=1):
+        operante = (s.get("operating_carrier_name")
+                    or s.get("marketing_carrier_name")
+                    or s["marketing_carrier_code"])
         cur.execute(
             """INSERT INTO segments_vol
                (vol_id, sens, ordre, code_compagnie, numero_vol, compagnie_operante, avion,
@@ -116,7 +119,7 @@ def inserer_segments(cur, vol_id, trajet, sens):
                 aeroport_arrivee, arrivee_locale, fuseau_arrivee, arrivee_utc, duree_min)
                VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
             (vol_id, sens, ordre, s["marketing_carrier_code"], s["flight_number"],
-             s["operating_carrier_name"], s.get("aircraft"),
+             operante, s.get("aircraft"),
              s["departure_airport"], s["departure_time_local"], s["departure_timezone"],
              s["departure_time_utc"],
              s["arrival_airport"], s["arrival_time_local"], s["arrival_timezone"],
@@ -241,11 +244,24 @@ def importer():
         with open(fichier, encoding="utf-8") as f:
             donnees = json.load(f)
         type_req = "aller_retour" if donnees.get("return_date") else "aller_simple"
-        with conn, conn.cursor() as cur:
-            ingestion_id = stocker_brut(cur, type_req, donnees)
-            n, m = normaliser(cur, ingestion_id, donnees)
-            cur.execute("UPDATE ingestions_brutes SET traite = TRUE WHERE id = %s", (ingestion_id,))
-        print(f"{fichier.name}: +{n} nouveaux, {m} mis à jour")
+        try:
+            with conn, conn.cursor() as cur:
+                cur.execute(
+                    """SELECT 1 FROM ingestions_brutes
+                       WHERE type = %s AND origine = %s AND destination = %s
+                         AND date_depart = %s AND observe_le = %s LIMIT 1""",
+                    (type_req, donnees["origin"], donnees["destination"],
+                     donnees["departure_date"], donnees["observed_at"]))
+                if cur.fetchone():
+                    print(f"{fichier.name}: déjà importé, ignoré")
+                    continue
+                ingestion_id = stocker_brut(cur, type_req, donnees)
+                n, m = normaliser(cur, ingestion_id, donnees)
+                cur.execute("UPDATE ingestions_brutes SET traite = TRUE WHERE id = %s",
+                            (ingestion_id,))
+            print(f"{fichier.name}: +{n} nouveaux, {m} mis à jour")
+        except Exception as e:
+            print(f"ERREUR {fichier.name}: {e}")
     conn.close()
 
 

@@ -31,7 +31,10 @@ export default function Connexion() {
   const { login } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
-  const destination = location.state?.from?.pathname ?? "/";
+  const destination = location.state?.from?.pathname ?? "/accueil";
+
+  // Message de succès transmis par une autre page (ex. mot de passe modifié)
+  const [messageSucces] = useState(() => location.state?.message ?? null);
 
   const [email, setEmail] = useState("");
   const [motDePasse, setMotDePasse] = useState("");
@@ -84,6 +87,15 @@ export default function Connexion() {
         <p className="mt-2 text-center text-sm text-slate-600">
           Bon retour ! Connectez-vous pour accéder à votre compte.
         </p>
+
+        {messageSucces && (
+          <p
+            role="status"
+            className="mt-5 rounded-lg border border-green-200 bg-green-50 p-3 text-sm text-green-800"
+          >
+            {messageSucces}
+          </p>
+        )}
 
         <div aria-live="polite">
           {codeErreur && (

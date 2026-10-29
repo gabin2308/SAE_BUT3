@@ -6,8 +6,7 @@ export function cheminAccueil(role) {
 
     case ROLES.UTILISATEUR:
     case ROLES.EVALUATEUR:
-      return "/accueil"; // provisoire, jusqu'à la création de leurs espaces
     default:
-      return "/connexion";
+      return "/accueil";
   }
 }
